@@ -4,14 +4,14 @@ root: intro.md
 parts:
   - caption: Hoorcollege - Opgaven en Uitwerkingen 
     chapters:
-    - file: H2/H2_0_intro
+    - file: H2/H2_0_intro_hoorcollege
       sections:
       - file: H2/H2_opgaven_hoorcollege_lesweek1.md
       - file: H2/H2_uitwerkingen_hoorcollege_lesweek1.md
 
   - caption: Werkcollege - Opgaven en Uitwerkingen 
     chapters:
-    - file: H2/H2_0_intro
+    - file: H2/H2_0_intro_werkcollege
       sections:
       - file: H2/H2_opgaven_werkcollege_lesweek1.md
       - file: H2/H2_uitwerkingen_werkcollege_lesweek1.md
