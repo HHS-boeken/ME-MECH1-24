@@ -68,8 +68,8 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \tan^{-1} (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \tan^{-1} (\dfrac{ 569.85}{ 344.22}) \\
+\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
+\phi &=  \arctan (\dfrac{ 569.85}{ 344.22}) \\
 &= 58.9 \text{ graden}
 \end{align}
 ```
@@ -129,7 +129,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 0 &= 8 \cdot \cos (\theta) - 4.60 \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
-\theta &= \cos^{-1} (\dfrac{-4.60}{8}) \\
+\theta &= \arccos (\dfrac{-4.60}{8}) \\
 &= 54.9 \text{ graden}
 \end{align}
 
@@ -193,14 +193,14 @@ F_{2;y} &=  |\overrightarrow{F_2}| \cdot \sin (30) \\
 
 Ontbind de kracht $\overrightarrow{F_3}$ in $F_{3;x}$ en $F_{3;y}$ :
 \begin{align}
-\dfrac{F_3;x}{4} = \dfrac{|\overrightarrow{F_3}|}{5} \\
+\dfrac{F_3;x}{4} &= \dfrac{|\overrightarrow{F_3}|}{5} \\
 F_{3;x} &=  |\overrightarrow{F_3}| \cdot \dfrac{4}{5} \\
 & = 250 \cdot \dfrac{4}{5} \\
 & = 200 \text{ N}
 \end{align}
 
 \begin{align}
-\dfrac{F_3;y}{3} = \dfrac{|\overrightarrow{F_3}|}{5} \\
+\dfrac{F_3;y}{3} &= \dfrac{|\overrightarrow{F_3}|}{5} \\
 F_{3;y} &=  |\overrightarrow{F_3}| \cdot \dfrac{3}{5} \\
 & = 250 \cdot \dfrac{3}{5} \\
 & = 150 \text{ N}
@@ -230,8 +230,8 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) & = \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \tan^{-1} (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \tan^{-1} (\dfrac{ 350}{ 446.41}) \\
+\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
+\phi &=  \arctan (\dfrac{ 350}{ 446.41}) \\
 &= 38.1 \text{ graden}
 \end{align}
 ```
@@ -320,7 +320,7 @@ Substitutie van $F_2$ geeft:
 124.26 &= 200.74 \cdot \dfrac{\sin (\theta)}{\cos (\theta)} \\
 124.26 &= 200.74 \cdot \tan(\theta) \\
 \tan(\theta) &= \dfrac{ 124.26}{200.74} \\
-\theta &= \tan^{-1} (\dfrac{ 124.26}{200.74}) \\
+\theta &= \arctan (\dfrac{ 124.26}{200.74}) \\
 &= 31.76 \text{ graden}
 \end{align}
 
