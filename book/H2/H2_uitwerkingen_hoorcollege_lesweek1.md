@@ -1,6 +1,6 @@
 # Uitwerkingen
 
-## Opgave 1 (F2.2)
+## Opgave 1 (F2.3)
 
 ````{admonition} Antwoord
 :class:  dropdown
@@ -20,48 +20,48 @@
 
 Ontbind de kracht $\overrightarrow{F_1}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
-F_{1;x} &=  |\overrightarrow{F_1}| \cdot \cos (70) \\
-& = 500 \cdot \cos (70) \\
-& = 171.01 \text{ N}
+F_{1;x} &=  |\overrightarrow{F_1}| \cdot \cos (90) \\
+& = 800 \cdot \cos (90) \\
+& = 0 \text{ N}
 \end{align}
 
 \begin{align}
-F_{1;y} &=  |\overrightarrow{F_1}| \cdot \sin (70) \\
-& = 500 \cdot \sin (70) \\
-& = 469.85 \text{ N}
+F_{1;y} &=  |\overrightarrow{F_1}| \cdot \sin (90) \\
+& = 800 \cdot \sin (90) \\
+& = 800 \text{ N} \uparrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
-& = 200 \cdot \cos (30) \\
-& = 173.21 \text{ N}
+& = 600 \cdot \cos (30) \\
+& = 173.21 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
 F_{2;y} &=  |\overrightarrow{F_2}| \cdot \sin (30) \\
-& = 200 \cdot \sin (30) \\
-& = 100 \text{ N}
+& = 600 \cdot \sin (30) \\
+& = 300 \text{ N} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} \\
 & = 171.01 + 173.21 \\
-& = 344.22 \text{ N}
+& = 344.22 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} \\
-& = 469.85 + 100 \\
-& = 569.85 \text{ N}
+& = 800 - 300 \\
+& = 500 \text{ N} \uparrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 \begin{align}
 |\overrightarrow{F_{res}}| &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
-& = \sqrt{ (344.22)^2 + (569.85)^2 } \\
+& = \sqrt{ (344.22)^2 + (500)^2 } \\
 & = 665.75 \text{ N}
 \end{align}
 
@@ -69,7 +69,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \arctan (\dfrac{ 569.85}{ 344.22}) \\
+\phi &=  \arctan (\dfrac{ 500}{ 344.22}) \\
 &= 58.9 \text{ graden}
 \end{align}
 ```
