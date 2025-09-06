@@ -77,8 +77,6 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 
 <hr style="border:1px solid #9EA700">
 
-
-
 ## Opgave 2 (2.16)
 
 ````{admonition} Antwoord
@@ -147,7 +145,6 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 ````
 
 <hr style="border:1px solid #9EA700">
-
 
 ## Opgave 3 (F2.8)
 
@@ -238,7 +235,6 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 ````
 
 <hr style="border:1px solid #9EA700">
-
 
 ## Opgave 4 (F2.10)
 
