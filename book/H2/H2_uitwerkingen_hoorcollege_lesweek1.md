@@ -7,11 +7,11 @@
 
 
 \begin{align*}
-|\overrightarrow{F_{res}}| = 665.75 \text{ N}
+|\overrightarrow{F_{res}}| = 721.11 \text{ N}
 \end{align*}
 
 \begin{align*}
-\phi = 58.9 \text{ graden}
+\phi = 43.9 \text{ graden}
 \end{align*}
 
 
@@ -84,11 +84,11 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 
 
 \begin{align*}
- \theta &= 54.9  \text{ graden}
+ \theta &= 103.5  \text{ graden}
 \end{align*}
 
 \begin{align*}
- |\overrightarrow{F_{res}}| &= 10.41 \text{ kN}
+ |\overrightarrow{F_{res}}| &= 6.80 \text{ kN}
 \end{align*}
 
 
