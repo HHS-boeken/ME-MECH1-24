@@ -9,11 +9,11 @@ Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij
 
 
 \begin{align*}
-|\overrightarrow{F_{res}}| = 721.11 \text{ N}
+|\overrightarrow{F_{res}}| = 37.53 \text{ N}
 \end{align*}
 
 \begin{align*}
-\phi = 43.9 \text{ graden}
+\phi = 19.6 \text{ graden}
 \end{align*}
 
 
