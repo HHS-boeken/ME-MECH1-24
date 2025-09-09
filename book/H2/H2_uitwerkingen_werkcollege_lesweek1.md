@@ -24,40 +24,40 @@ Ontbind de kracht $\overrightarrow{F_1}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=  |\overrightarrow{F_1}| \cdot \cos (70) \\
 & = 500 \cdot \cos (70) \\
-& = 171.01 \text{ N}
+& = 171.01 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
-F_{1;y} &=  |\overrightarrow{F_1}| \cdot \sin (70) \\
-& = 500 \cdot \sin (70) \\
-& = 469.85 \text{ N}
+F_{1;y} &= - |\overrightarrow{F_1}| \cdot \sin (70) \\
+& = - 500 \cdot \sin (70) \\
+& = - 469.85 \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 & = 200 \cdot \cos (30) \\
-& = 173.21 \text{ N}
+& = 173.21 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
-F_{2;y} &=  |\overrightarrow{F_2}| \cdot \sin (30) \\
-& = 200 \cdot \sin (30) \\
-& = 100 \text{ N}
+F_{2;y} &= - |\overrightarrow{F_2}| \cdot \sin (30) \\
+& = - 200 \cdot \sin (30) \\
+& = - 100 \text{ N} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} \\
 & = 171.01 + 173.21 \\
-& = 344.22 \text{ N}
+& = 344.22 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} \\
-& = 469.85 + 100 \\
-& = 569.85 \text{ N}
+& =  - 469.85 - 100 \\
+& = - 569.85 \text{ N} \downarrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
@@ -112,13 +112,13 @@ Ontbind de kracht $\overrightarrow{F_{B}}$ in $F_{B;x}$ en $F_{B;y}$ :
 \begin{align}
 F_{B;x} &=  |\overrightarrow{F_{B}}| \cdot \sin (40) \\
 & = 6 \cdot \sin (40) \\
-& = 3.86 \text{ kN}
+& = 3.86 \text{ kN} \rightarrow
 \end{align}
 
 \begin{align}
-F_{B;y} &=  |\overrightarrow{F_{B}}| \cdot \cos (40) \\
-& = 6 \cdot \cos (40) \\
-& = 4.60 \text{ kN}
+F_{B;y} &= - |\overrightarrow{F_{B}}| \cdot \cos (40) \\
+& = - 6 \cdot \cos (40) \\
+& = - 4.60 \text{ kN} \downarrow
 \end{align}
 
 De resultante van $\overrightarrow{F_{A}}$ en $\overrightarrow{F_{B}}$ is naar rechts gericht dus $F_{res;y} = 0$.
@@ -140,7 +140,7 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 & = 8 \cdot \sin (\phi) + 3.86 \\
 & = 8 \cdot \sin (54.9) + 3.86 \\
 & = 6.55 + 3.86 \\
-& = 10.41 \text{ kN}
+& = 10.41 \text{ kN} \rightarrow
 \end{align}
 
 ```
@@ -170,7 +170,7 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 Ontbind de kracht $\overrightarrow{F_1}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=  |\overrightarrow{F_1}|  \\
-& = 300 \text{ N}
+& = 300 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
@@ -181,42 +181,42 @@ Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 & = 400 \cdot \cos (30) \\
-& = 346.41 \text{ N}
+& = 346.41 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
 F_{2;y} &=  |\overrightarrow{F_2}| \cdot \sin (30) \\
 & = 400 \cdot \sin (30) \\
-& = 200 \text{ N}
+& = 200 \text{ N} \uparrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_3}$ in $F_{3;x}$ en $F_{3;y}$ :
 \begin{align}
 \dfrac{F_3;x}{4} &= \dfrac{|\overrightarrow{F_3}|}{5} \\
-F_{3;x} &=  |\overrightarrow{F_3}| \cdot \dfrac{4}{5} \\
-& = 250 \cdot \dfrac{4}{5} \\
-& = 200 \text{ N}
+F_{3;x} &= - |\overrightarrow{F_3}| \cdot \dfrac{4}{5} \\
+& = - 250 \cdot \dfrac{4}{5} \\
+& = - 200 \text{ N} \leftarrow
 \end{align}
 
 \begin{align}
 \dfrac{F_3;y}{3} &= \dfrac{|\overrightarrow{F_3}|}{5} \\
 F_{3;y} &=  |\overrightarrow{F_3}| \cdot \dfrac{3}{5} \\
 & = 250 \cdot \dfrac{3}{5} \\
-& = 150 \text{ N}
+& = 150 \text{ N} \uparrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} - F_{3;x}\\
 & = 300 + 346.41 - 200\\
-& = 446.41 \text{ N}
+& = 446.41 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
 & = 0 + 200 + 150 \\
-& = 350 \text{ N}
+& = 350 \text{ N} \uparrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
@@ -260,24 +260,24 @@ Ontbind de kracht $\overrightarrow{F_1}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=   |\overrightarrow{F_1}|  \cdot \cos (45) \\
 & = 600 \cdot \cos (45) \\
-& = 424.26 \text{ N}
+& = 424.26 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
-F_{1;y} &=   |\overrightarrow{F_1}|  \cdot \sin (45) \\
-& = 600 \cdot \sin (45) \\
-& = 424.26  \text{N}
+F_{1;y} &=  - |\overrightarrow{F_1}|  \cdot \sin (45) \\
+& = - 600 \cdot \sin (45) \\
+& = - 424.26  \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (\theta) \\
-& = F_2 \cdot \cos (\theta)
+& = F_2 \cdot \cos (\theta) \rightarrow
 \end{align}
 
 \begin{align}
 F_{2;y} &=   |\overrightarrow{F_2}|  \cdot \sin (\theta) \\
-& = F_2 \cdot \sin (\theta) \\
+& = F_2 \cdot \sin (\theta) \uparrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_3}$ in $F_{3;x}$ en $F_{3;y}$ :
@@ -285,14 +285,14 @@ Ontbind de kracht $\overrightarrow{F_3}$ in $F_{3;x}$ en $F_{3;y}$ :
 \dfrac{F_3;x}{5} &= \dfrac{|\overrightarrow{F_3}| }{13} \\
 F_{3;x} &=  |\overrightarrow{F_3}|  \cdot \dfrac{5}{13} \\
 & = 325 \cdot \dfrac{5}{13} \\
-& = 125 \text{ N}
+& = 125 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
 \dfrac{F_3;y}{12} &= \dfrac{|\overrightarrow{F_3}| }{13} \\
 F_{3;y} &=  |\overrightarrow{F_3}|  \cdot \dfrac{12}{13} \\
 & = 325 \cdot \dfrac{12}{13} \\
-& = 300 \text{ N}
+& = 300 \text{ N} \uparrow
 \end{align}
 
 De resultante kracht $F_{res;x}=750$:

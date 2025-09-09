@@ -46,22 +46,22 @@ F_{2;x} &=  |\overrightarrow{F_1}| \cdot \dfrac{1}{\sqrt{10}} \\
 
 \begin{align}
 \dfrac{F_2;y}{3} &= \dfrac{|\overrightarrow{F_2}|}{\sqrt{10}} \\
-F_{2;y} &=  |\overrightarrow{F_1}| \cdot \dfrac{3}{\sqrt{10}} \\
-& = 30 \cdot \dfrac{3}{\sqrt{10}} \\
-& = 28.46 \text{ kN} \downarrow
+F_{2;y} &= - |\overrightarrow{F_1}| \cdot \dfrac{3}{\sqrt{10}} \\
+& = - 30 \cdot \dfrac{3}{\sqrt{10}} \\
+& = - 28.46 \text{ kN} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F3}$ in $F_{3;x}$ en $F_{3;y}$ :
 \begin{align}
-F_{3;x} &=  |\overrightarrow{F_3}| \cdot \cos (45) \\
-& = 20 \cdot \cos (45) \\
-& = 14.14 \text{ N} \leftarrow
+F_{3;x} &=  - |\overrightarrow{F_3}| \cdot \cos (45) \\
+& = - 20 \cdot \cos (45) \\
+& = - 14.14 \text{ N} \leftarrow
 \end{align}
 
 \begin{align}
-F_{3;y} &=  |\overrightarrow{F_3}| \cdot \sin (45) \\
-& = 20 \cdot \sin (45) \\
-& = 14.14 \text{ N} \downarrow
+F_{3;y} &=  - |\overrightarrow{F_3}| \cdot \sin (45) \\
+& = - 20 \cdot \sin (45) \\
+& = - 14.14 \text{ N} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
