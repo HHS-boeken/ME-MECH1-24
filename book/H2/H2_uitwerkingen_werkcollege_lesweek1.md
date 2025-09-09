@@ -1,6 +1,6 @@
 # Uitwerkingen
 
-Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij de vectoren ontbinden worden in een x- en y-component. Er wordt geen gebruik gemaakt van de sinus of cosinus regels.
+Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij de vectoren ontbinden worden in een x- en y-component. Er wordt geen gebruik gemaakt van van de sinusregel of cosinusregel (Goniometrie).
 
 ## Opgave 1 (F2.2)
 

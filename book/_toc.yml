@@ -8,6 +8,11 @@ parts:
       sections:
       - file: H2/H2_opgaven_hoorcollege_lesweek1.md
       - file: H2/H2_uitwerkingen_hoorcollege_lesweek1.md
+    
+    - file: H3/H3_0_intro_hoorcollege
+      sections:
+      - file: H3/H3_opgaven_hoorcollege_lesweek2.md
+      - file: H3/H3_uitwerkingen_hoorcollege_lesweek2.md
 
   - caption: Werkcollege - Opgaven en Uitwerkingen 
     chapters:
