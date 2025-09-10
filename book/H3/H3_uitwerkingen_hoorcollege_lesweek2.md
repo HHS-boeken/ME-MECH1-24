@@ -115,60 +115,46 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 ```{admonition} Uitwerking
 :class:  dropdown
 
-Ontbind de kracht $\overrightarrow{F_{1}}$ in $F_{1;x}$ en $F_{1;y}$ :
+Maak een VLS:
+
+
+Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\overrightarrow{F_{1}}|$ :
+
 \begin{align}
-F_{1;x} &=  |\overrightarrow{F_{1}}| \cdot \cos (60) \\
-& = 6 \cdot \cos (60) \\
-& = 3 \text{ N} \leftarrow
+\Sigma{F_x} &= 0 \\
+&= F_{1;x} +  F_{2;x} = 0 \\
+&= - |\overrightarrow{F_{1}}| \cdot \cos (35) + |\overrightarrow{F_{2}}| \cdot \cos (45) \\
+\\
+|\overrightarrow{F_{1}}| \cdot \cos (35) &= |\overrightarrow{F_{2}}| \cdot \cos (45) \\
+|\overrightarrow{F_{2}}|  &= |\overrightarrow{F_{1}}| \cdot \dfrac{\cos (35)}{\cos (45)}
 \end{align}
 
 \begin{align}
-F_{1;y} &=  |\overrightarrow{F_{1}}| \cdot \sin (60) \\
-& = 6 \cdot \sin (60) \\
-& = 5.2 \text{ N} \downarrow
+\Sigma{F_x} &= 0 \\
+&= F_{1;y} +  F_{2;y} + F_3 = 0 \\
+&= |\overrightarrow{F_{1}}| \cdot \sin (35) + |\overrightarrow{F_{2}}| \cdot \sin (45) - (100 \cdot 9.81)  = 0 \\
 \end{align}
 
-Ontbind de kracht $\overrightarrow{F_{2}}$ in $F_{2;x}$ en $F_{2;y}$ :
+$|\overrightarrow{F_{2}}|$ invullen geeft:
 \begin{align}
-F_{2;x} &=  |\overrightarrow{F_{2}}| \cdot \cos (45) \\
-& = 2 \cdot \cos (45) \\
-& = 1.41 \text{ kN}  \rightarrow
+0 &= |\overrightarrow{F_{1}}| \cdot \sin (35) + |\overrightarrow{F_{2}}| \cdot \sin (45) - (100 \cdot 9.81) \\
+0 &= |\overrightarrow{F_{1}}| \cdot \sin (35) + |\overrightarrow{F_{1}}| \cdot \dfrac{\cos (35)}{\cos (45)} \cdot \sin (45) - (100 \cdot 9.81) \\
+0 &= |\overrightarrow{F_{1}}|  \cdot 0.57 + |\overrightarrow{F_{1}}| \cdot 0.82 - 981 \\
+0 &= 1.35|\overrightarrow{F_{1}}|  -  981 \\
+|\overrightarrow{F_{1}}|  & = \dfrac{981}{1.39} \\
+& \approx 705.8 \text{ N}
 \end{align}
 
+$|\overrightarrow{F_{1}}|$ invullen geeft:
 \begin{align}
-F_{2;y} &=  |\overrightarrow{F_{B}}| \cdot \sin (45) \\
-& = 2 \cdot \sin (45) \\
-& = 1.41 \text{ kN} \downarrow
+|\overrightarrow{F_{2}}|  &= |\overrightarrow{F_{1}}| \cdot \dfrac{\cos (35)}{\cos (45)} \\
+&= 705.8 \cdot \dfrac{\cos (35)}{\cos (45)} \\
+& \approx 817.6 \text{ N}
 \end{align}
 
-Bepaal de resultante kracht $F_{res;x}$:
-\begin{align}
-F_{res;x} &=  F_{1;x} + F_{2;x} \\
-& = -3 + 1.41 \\
-& = -1.59 \text{ kN} \leftarrow
-\end{align}
 
-Bepaal de resultante kracht $F_{res;y}$:
-\begin{align}
-F_{res;y} &=  F_{1;y} + F_{2;y} \\
-& = 5.2 + 1.41 \\
-& = 6.61 \text{ kN} \downarrow
-\end{align}
 
-Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
-\begin{align}
-|\overrightarrow{F_{res}}| &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
-& = \sqrt{ (-1.59)^2 + (6.61)^2 } \\
-& = 6.80 \text{ N}
-\end{align}
 
-Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
-\begin{align}
-\tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \arctan (\dfrac{ 6.61}{ -1.59}) \\
-&=  103.5 \text{ graden}
-\end{align}
 
 ```
 ````
