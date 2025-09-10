@@ -70,8 +70,8 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \arctan (\dfrac{ 500}{ 519.62}) \\
+\phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
+\phi &=  \arctan \left( \dfrac{ 500}{ 519.62} \right) \\
 & \approx 43.9 \text{ graden}
 \end{align}
 ```
@@ -147,8 +147,8 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \arctan (\dfrac{ 6.61}{ -1.59}) \\
+\phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
+\phi &=  \arctan \left( \dfrac{ 6.61}{ -1.59} \right) \\
 &=  103.5 \text{ graden}
 \end{align}
 

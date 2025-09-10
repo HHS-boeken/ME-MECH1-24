@@ -70,8 +70,8 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \arctan (\dfrac{ 569.85}{ 344.22}) \\
+\phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
+\phi &=  \arctan \left( \dfrac{ 569.85}{ 344.22} \right) \\
 &\approx 58.9 \text{ graden}
 \end{align}
 ```
@@ -129,7 +129,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 0 &= 8 \cdot \cos (\theta) - 4.60 \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
-\theta &= \arccos (\dfrac{-4.60}{8}) \\
+\theta &= \arccos \left( \dfrac{-4.60}{8} \right) \\
 &=\approx 54.9 \text{ graden}
 \end{align}
 
@@ -229,8 +229,8 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 \begin{align}
 \tan (\phi) & = \dfrac{F_{res;y}}{F_{res;x}} \\
-\phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
-\phi &=  \arctan (\dfrac{ 350}{ 446.41}) \\
+\phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
+\phi &=  \arctan \left( \dfrac{ 350}{ 446.41} \right) \\
 &\approx 38.1 \text{ graden}
 \end{align}
 ```
@@ -318,7 +318,7 @@ Substitutie van $F_2$ geeft:
 124.26 &= 200.74 \cdot \dfrac{\sin (\theta)}{\cos (\theta)} \\
 124.26 &= 200.74 \cdot \tan(\theta) \\
 \tan(\theta) &= \dfrac{ 124.26}{200.74} \\
-\theta &= \arctan (\dfrac{ 124.26}{200.74}) \\
+\theta &= \arctan \left( \dfrac{ 124.26}{200.74} \right) \\
 & \approx 31.76 \text{ graden}
 \end{align}
 
