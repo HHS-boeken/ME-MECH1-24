@@ -21,4 +21,8 @@ parts:
       - file: H2/H2_opgaven_werkcollege_lesweek1.md
       - file: H2/H2_uitwerkingen_werkcollege_lesweek1.md
 
-
+  - caption: Miscellaneous
+    chapters:
+    - file: Miscellaneous/Bibliography.md
+    - file: MiscellaneousH2/credits.md
+    - file: MiscellaneousH2/changelog.md
