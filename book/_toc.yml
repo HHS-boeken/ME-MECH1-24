@@ -27,6 +27,6 @@ parts:
 
   - caption: Diverse
     chapters:
-    - file: Miscellaneous/bib.md
-    - file: credits
     - file: Miscellaneous/changelog.md
+    - file: credits
+    - file: references
