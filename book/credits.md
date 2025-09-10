@@ -29,29 +29,29 @@ Delen van dit boek zijn afkomstig uit andere externe bronnen en op verschillende
 (editor)=
 ## Over de auteur
 
-### Raoul Tjokrojoso
+%### Raoul Tjokrojoso
 
-```{figure} figures/Tom.jpg
-:width: 300px
-:align: center
-:class: dark-light
-```
+%```{figure} figures/Tom.jpg
+%:width: 300px
+%:align: center
+%:class: dark-light
+%```
 
-Tom is docent aan de Technische Universiteit Delft. Tom heeft een passie voor het mechanicaonderwijs en streeft ernaar een blended leerweg te faciliteren voor studenten, waarin actief leren aantrekkelijk en lonend is.
+%Tom is docent aan de Technische Universiteit Delft. Tom heeft een passie voor het mechanicaonderwijs en streeft ernaar een blended leerweg te faciliteren voor studenten, waarin actief leren aantrekkelijk en lonend is.
 
-Tom is in 2020 afgestudeerd bij de Technische Universiteit Delft met onderzoek naar wiskundige optimalisatie van een constructief ontwerp. Van augustus 2020 tot augustus 2022 was Tom werkzaam bij de Hogeschool van Amsterdam als docent constructie, gespecialiseerd in constructiemechanica. Sinds september 2022 is Tom werkzaam bij de TU Delft.
+%Tom is in 2020 afgestudeerd bij de Technische Universiteit Delft met onderzoek naar wiskundige optimalisatie van een constructief ontwerp. Van augustus 2020 tot augustus 2022 was Tom werkzaam bij de Hogeschool van Amsterdam als docent constructie, gespecialiseerd in constructiemechanica. Sinds september 2022 is Tom werkzaam bij de TU Delft.
 
-Naast constructiemechanicavakken, geeft Tom vakken over optimalisatie, numerieke methodes, data-analyse en statistiek. Ook begeleidt Tom BSc- en MSc-studenten, deels onderdeel van zijn onderzoekproject over [Macaulay's methode](https://oit.tudelft.nl/Macaulays-method). Daarnaast, ben ik actief betrokken in interfacultaire samenwerkingen zoals [PRIMECH](https://www.tudelft.nl/teachingacademy/communities/primech), [TeachBooks](https://teachbooks.io/) en diverse digitale tooling voor het onderwijs zoals [ANS](https://ans.app/) en Git
+%Naast constructiemechanicavakken, geeft Tom vakken over optimalisatie, numerieke methodes, data-analyse en statistiek. Ook begeleidt Tom BSc- en MSc-studenten, deels onderdeel van zijn onderzoekproject over [Macaulay's methode](https://oit.tudelft.nl/Macaulays-method). Daarnaast, ben ik actief betrokken in interfacultaire samenwerkingen zoals [PRIMECH](https://www.tudelft.nl/teachingacademy/communities/primech), [TeachBooks](https://teachbooks.io/) en diverse digitale tooling voor het onderwijs zoals [ANS](https://ans.app/) en Git
 
-- {fa}`envelope` T.R.vanWoudenberg@tudelft.nl
-- {fa}`envelope` tomvanw@hotmail.com
-- {fa}`phone` +31152789739
-- {fa}`location-dot` TU Delft – Civiele Techniek & Geowetenschappen - Afdeling 3MD – Kamer 6.45
-- <i class="fa-brands fa-github"></i> [GitHub profiel](https://github.com/Tom-van-Woudenberg)
-- <i class="fa-brands fa-linkedin"></i> [LinkedIn profiel](https://www.linkedin.com/in/tom-van-woudenberg/)
-- {fa}`building-columns` [TU Delft profiel](https://www.tudelft.nl/en/staff/t.r.vanwoudenberg/)
+%- {fa}`envelope` T.R.vanWoudenberg@tudelft.nl
+%- {fa}`envelope` tomvanw@hotmail.com
+%- {fa}`phone` +31152789739
+%- {fa}`location-dot` TU Delft – Civiele Techniek & Geowetenschappen - Afdeling 3MD – Kamer 6.45
+%- <i class="fa-brands fa-github"></i> [GitHub profiel](https://github.com/Tom-van-Woudenberg)
+%- <i class="fa-brands fa-linkedin"></i> [LinkedIn profiel](https://www.linkedin.com/in/tom-van-woudenberg/)
+%- {fa}`building-columns` [TU Delft profiel](https://www.tudelft.nl/en/staff/t.r.vanwoudenberg/)
 
 ### Dankwoord
-Dank aan studentenassistent Iris Oskam voor het controleren van de antwoorden en toevoegen van uitwerkingen
+%Dank aan studentenassistent Iris Oskam voor het controleren van de antwoorden en toevoegen van uitwerkingen
 
 Daarnaast veel dank aan de diverse collega's en studentassistenten van [TeachBooks](https://teachbooks.io/) voor het ontwikkelen van tools en het bieden van ondersteuning om dit boek te verbeteren.
