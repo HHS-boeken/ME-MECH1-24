@@ -54,4 +54,4 @@ Delen van dit boek zijn afkomstig uit andere externe bronnen en op verschillende
 ### Dankwoord
 %Dank aan studentenassistent Iris Oskam voor het controleren van de antwoorden en toevoegen van uitwerkingen
 
-Daarnaast veel dank aan de diverse collega's en studentassistenten van [TeachBooks](https://teachbooks.io/) voor het ontwikkelen van tools en het bieden van ondersteuning om dit boek te verbeteren.
+Daarnaast veel dank aan de diverse collega's en studentassistenten van de TU Delft van [TeachBooks](https://teachbooks.io/) voor het ontwikkelen van tools en het bieden van ondersteuning om dit boek te verbeteren.
