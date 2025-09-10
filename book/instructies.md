@@ -23,4 +23,4 @@ Zie je een fout? Klik op {octicon}`mark-github` --> {fa}`lightbulb`, log in met 
 Wil je dit TeachBook persoonlijker maken door (privé of publieke) annotaties toe te voegen? Dan raad ik de [Hypothesis-extensie](https://web.hypothes.is/start/) aan. Dit is alleen voor eigen gebruik, ik monitor geen publieke posts op dit platform.
 
 ## Versie
-Dit is de `2025-2026`-versie van het boek. Ga naar [https://oit.tudelft.nl/CTB2210](https://oit.tudelft.nl/CT2210) voor de meest recente versie van dit boek, of pas het jaartal aan in [/CTB2210/2025](https://oit.tudelft.nl/CTB2210/2025) naar het jaar waarin je de module volgde.
+Dit is de `2025-2026`-versie van het boek. Ga naar [/ME-MECH1-24](https://hhs-boeken.github.io/ME-MECH1-24/2526) voor de meest recente versie van dit boek, of pas het jaartal aan in [/ME-MECH1-24/2526](https://hhs-boeken.github.io/ME-MECH1-24/2526/intro.html) naar het jaar waarin je de module volgde.
