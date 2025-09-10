@@ -27,6 +27,6 @@ parts:
 
   - caption: Diverse
     chapters:
+    - file: references
     - file: changelog
     - file: credits
-    - file: references
