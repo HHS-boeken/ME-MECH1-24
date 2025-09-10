@@ -2,7 +2,7 @@
 
 Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij de vectoren ontbinden worden in een x- en y-component. Er wordt geen gebruik gemaakt van de sinusregel of cosinusregel (Goniometrie).
 
-## Voorbeeld Opgave 1
+## Terugblik Opgave 1
 
 ````{admonition} Antwoord
 :class:  dropdown
@@ -97,7 +97,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 
 <hr style="border:1px solid #9EA700">
 
-## Opgave 2 (F2.1)
+## Voorbeeld Opgave 1
 
 ````{admonition} Antwoord
 :class:  dropdown
