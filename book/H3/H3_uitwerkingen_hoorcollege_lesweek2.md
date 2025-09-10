@@ -1,7 +1,5 @@
 # Uitwerkingen
 
-Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij de vectoren ontbinden worden in een x- en y-component. Er wordt geen gebruik gemaakt van de sinusregel of cosinusregel (Goniometrie).
-
 ## Terugblik Opgave 1
 
 ````{admonition} Antwoord
