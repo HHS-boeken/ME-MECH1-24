@@ -5,8 +5,6 @@ parts:
   - caption: Vakinformatie
     chapters:
     - file: instructies
-    - file: Miscellaneous/credits.md
-    - file: Miscellaneous/changelog.md
 
   - caption: Hoorcollege
     chapters:
