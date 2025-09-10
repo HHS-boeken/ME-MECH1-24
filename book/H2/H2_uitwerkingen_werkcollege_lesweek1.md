@@ -9,11 +9,11 @@ Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij
 
 
 \begin{align*}
-|\overrightarrow{F_{res}}| = 665.75 \text{ N}
+|\overrightarrow{F_{res}}| \approx 665.75 \text{ N}
 \end{align*}
 
 \begin{align*}
-\phi = 58.9 \text{ graden}
+\phi \approx 58.9 \text{ graden}
 \end{align*}
 
 
@@ -24,20 +24,20 @@ Ontbind de kracht $\overrightarrow{F_1}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=  |\overrightarrow{F_1}| \cdot \cos (70) \\
 & = 500 \cdot \cos (70) \\
-& = 171.01 \text{ N} \rightarrow
+& \approx 171.01 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
 F_{1;y} &= - |\overrightarrow{F_1}| \cdot \sin (70) \\
 & = - 500 \cdot \sin (70) \\
-& = - 469.85 \text{ N} \downarrow
+& \approx - 469.85 \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 & = 200 \cdot \cos (30) \\
-& = 173.21 \text{ N} \rightarrow
+& \approx 173.21 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
@@ -50,21 +50,21 @@ Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} \\
 & = 171.01 + 173.21 \\
-& = 344.22 \text{ N} \rightarrow
+& \approx 344.22 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} \\
 & =  - 469.85 - 100 \\
-& = - 569.85 \text{ N} \downarrow
+& \approx- 569.85 \text{ N} \downarrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 \begin{align}
 |\overrightarrow{F_{res}}| &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
 & = \sqrt{ (344.22)^2 + (569.85)^2 } \\
-& = 665.75 \text{ N}
+& \approx 665.75 \text{ N}
 \end{align}
 
 Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
@@ -72,7 +72,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
 \phi &=  \arctan (\dfrac{ 569.85}{ 344.22}) \\
-&= 58.9 \text{ graden}
+&\approx 58.9 \text{ graden}
 \end{align}
 ```
 ````
@@ -86,11 +86,11 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 
 
 \begin{align*}
- \theta &= 54.9  \text{ graden}
+ \theta &\approx 54.9  \text{ graden}
 \end{align*}
 
 \begin{align*}
- |\overrightarrow{F_{res}}| &= 10.41 \text{ kN}
+ |\overrightarrow{F_{res}}| &\approx10.41 \text{ kN}
 \end{align*}
 
 
@@ -112,13 +112,13 @@ Ontbind de kracht $\overrightarrow{F_{B}}$ in $F_{B;x}$ en $F_{B;y}$ :
 \begin{align}
 F_{B;x} &=  |\overrightarrow{F_{B}}| \cdot \sin (40) \\
 & = 6 \cdot \sin (40) \\
-& = 3.86 \text{ kN} \rightarrow
+& \approx 3.86 \text{ kN} \rightarrow
 \end{align}
 
 \begin{align}
 F_{B;y} &= - |\overrightarrow{F_{B}}| \cdot \cos (40) \\
 & = - 6 \cdot \cos (40) \\
-& = - 4.60 \text{ kN} \downarrow
+& \approx - 4.60 \text{ kN} \downarrow
 \end{align}
 
 De resultante van $\overrightarrow{F_{A}}$ en $\overrightarrow{F_{B}}$ is naar rechts gericht dus $F_{res;y} = 0$.
@@ -130,7 +130,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
 \theta &= \arccos (\dfrac{-4.60}{8}) \\
-&= 54.9 \text{ graden}
+&=\approx 54.9 \text{ graden}
 \end{align}
 
 
@@ -140,7 +140,7 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 & = 8 \cdot \sin (\phi) + 3.86 \\
 & = 8 \cdot \sin (54.9) + 3.86 \\
 & = 6.55 + 3.86 \\
-& = 10.41 \text{ kN} \rightarrow
+& \approx 10.41 \text{ kN} \rightarrow
 \end{align}
 
 ```
@@ -155,11 +155,11 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 
 
 \begin{align*}
-|\overrightarrow{F_{res}}| = 567.26 \text{ N}
+|\overrightarrow{F_{res}}| \approx 567.26 \text{ N}
 \end{align*}
 
 \begin{align*}
-\phi = 38.1 \text{ graden}
+\phi \approx 38.1 \text{ graden}
 \end{align*}
 
 
@@ -181,7 +181,7 @@ Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 & = 400 \cdot \cos (30) \\
-& = 346.41 \text{ N} \rightarrow
+& \approx 346.41 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
@@ -209,7 +209,7 @@ Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} - F_{3;x}\\
 & = 300 + 346.41 - 200\\
-& = 446.41 \text{ N} \rightarrow
+& \approx 446.41 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
@@ -223,7 +223,7 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 \begin{align}
 |\overrightarrow{F_{res}}| &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
 & = \sqrt{ (446.41)^2 + (350)^2 } \\
-& = 567.26 \text{ N}
+& \approx 567.26 \text{ N}
 \end{align}
 
 Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
@@ -231,7 +231,7 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 \tan (\phi) & = \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
 \phi &=  \arctan (\dfrac{ 350}{ 446.41}) \\
-&= 38.1 \text{ graden}
+&\approx 38.1 \text{ graden}
 \end{align}
 ```
 ````
@@ -245,11 +245,11 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 
 
 \begin{align*}
-|\overrightarrow{F_{2}}| = 236.10 \text{ N}
+|\overrightarrow{F_{2}}| \approx 236.10 \text{ N}
 \end{align*}
 
 \begin{align*}
-\theta =  31.76 \text{ graden}
+\theta \approx  31.76 \text{ graden}
 \end{align*}
 
 
@@ -260,13 +260,13 @@ Ontbind de kracht $\overrightarrow{F_1}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=   |\overrightarrow{F_1}|  \cdot \cos (45) \\
 & = 600 \cdot \cos (45) \\
-& = 424.26 \text{ N} \rightarrow
+& \approx 424.26 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
 F_{1;y} &=  - |\overrightarrow{F_1}|  \cdot \sin (45) \\
 & = - 600 \cdot \sin (45) \\
-& = - 424.26  \text{ N} \downarrow
+& \approx - 424.26  \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
@@ -319,7 +319,7 @@ Substitutie van $F_2$ geeft:
 124.26 &= 200.74 \cdot \tan(\theta) \\
 \tan(\theta) &= \dfrac{ 124.26}{200.74} \\
 \theta &= \arctan (\dfrac{ 124.26}{200.74}) \\
-&= 31.76 \text{ graden}
+& \approx 31.76 \text{ graden}
 \end{align}
 
 $\theta$ invullen geeft de grootte van F:
@@ -327,7 +327,7 @@ $\theta$ invullen geeft de grootte van F:
 124.26 &= |\overrightarrow{F_2}| \cdot \sin (\theta) \\
 124.26 &= |\overrightarrow{F_2}| \cdot \sin (31.76) \\
 |\overrightarrow{F_2}| &= \dfrac{124.26}{\sin (31.76) } \\
-&= 236.10 \text{ N}
+&\approx 236.10 \text{ N}
 \end{align}
 ```
 ````

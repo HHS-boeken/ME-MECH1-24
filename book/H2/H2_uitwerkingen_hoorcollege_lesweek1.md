@@ -9,11 +9,11 @@ Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij
 
 
 \begin{align*}
-|\overrightarrow{F_{res}}| = 721.11 \text{ N}
+|\overrightarrow{F_{res}}| \approx 721.11 \text{ N}
 \end{align*}
 
 \begin{align*}
-\phi = 43.9 \text{ graden}
+\phi \approx 43.9 \text{ graden}
 \end{align*}
 
 
@@ -37,7 +37,7 @@ Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
 F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 & = 600 \cdot \cos (30) \\
-& = 519.62 \text{ N} \rightarrow
+& \approx 519.62 \text{ N} \rightarrow
 \end{align}
 
 \begin{align}
@@ -50,7 +50,7 @@ Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} \\
 & = 0 + 519.62  \\
-& = 519.62 \text{ N} \rightarrow
+& \approx 519.62 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
@@ -64,7 +64,7 @@ Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
 \begin{align}
 |\overrightarrow{F_{res}}| &= \sqrt{(F_{res;x})^2 + (F_{res;y})^2 } \\
 & = \sqrt{ (519.62)^2 + (500)^2 } \\
-& = 721.11 \text{ N}
+& \approx 721.11 \text{ N}
 \end{align}
 
 Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
@@ -72,7 +72,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
 \phi &=  \arctan (\dfrac{ 500}{ 519.62}) \\
-&= 43.9 \text{ graden}
+& \approx 43.9 \text{ graden}
 \end{align}
 ```
 ````
