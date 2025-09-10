@@ -27,6 +27,6 @@ parts:
 
   - caption: Diverse
     chapters:
-    - file: Miscellaneous/changelog.md
+    - file: changelog
     - file: credits
     - file: references
