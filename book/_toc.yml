@@ -23,6 +23,6 @@ parts:
 
   - caption: Miscellaneous
     chapters:
-    - file: Miscellaneous/Bibliography.md
+    - file: Miscellaneous/bib.md
     - file: Miscellaneous/credits.md
     - file: Miscellaneous/changelog.md
