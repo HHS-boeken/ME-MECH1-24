@@ -2,6 +2,12 @@ format: jb-book
 root: intro.md
 
 parts:
+  - caption: Vakinformatie
+    chapters:
+    - file: instructies
+    - file: Miscellaneous/credits.md
+    - file: Miscellaneous/changelog.md
+
   - caption: Hoorcollege
     chapters:
     - file: H2/H2_0_intro_hoorcollege
@@ -21,8 +27,8 @@ parts:
       - file: H2/H2_opgaven_werkcollege_lesweek1.md
       - file: H2/H2_uitwerkingen_werkcollege_lesweek1.md
 
-  - caption: Miscellaneous
+  - caption: Diverse
     chapters:
     - file: Miscellaneous/bib.md
-    - file: Miscellaneous/credits.md
+    - file: credits
     - file: Miscellaneous/changelog.md
