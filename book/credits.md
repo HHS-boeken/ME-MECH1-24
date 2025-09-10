@@ -3,7 +3,7 @@
 
 Je kunt naar dit boek verwijzen als:
 
-> Raoul Tjokrojoso van de Haagse Hogeschool (2025) _ME_MECH1-24 - Mechanica 1_. https://oit.tudelft.nl/CTB2210. Bronbestanden op [HHS-boeken/ME-MECH1-24](https://github.com/HHS-boeken/ME-MECH1-24). CC BY 4.0.
+> Raoul Tjokrojoso van de Haagse Hogeschool (2025) _ME-MECH1-24 - Mechanica 1_. [https://hhs-boeken.github.io/ME-MECH1-24](https://hhs-boeken.github.io/ME-MECH1-24/2526). Bronbestanden op [HHS-boeken/ME-MECH1-24](https://github.com/HHS-boeken/ME-MECH1-24). CC BY 4.0.
 
 Je kunt naar individuele hoofdstukken of pagina's binnen dit boek verwijzen als:
 
@@ -22,14 +22,14 @@ Om de website opnieuw te maken heb je twee opties (meer informatie in de [TeachB
 Dit boek is [CC BY 4.0 gelicenseerd](https://creativecommons.org/licenses/by/4.0/) waardoor je het materiaal mag delen en aanpassen, zolang de bron wordt vermeld. Externe bronnen die in dit boek worden hergebruikt, staan hieronder vermeld.
 
 (external_resources)=
-### Externe bronnen 🌐
+### Externe bronnen
 
 Delen van dit boek zijn afkomstig uit andere externe bronnen en op verschillende manieren hergebruikt. In het bijzonder is er materiaal gedeeld met [CTS1000 Structural Mechanics 2025/2026](https://oit.tudelft.nl/CT1000/2025/intro.html) en [Structural Mechanics @ BSc Civil Engineering](http://oit.tudelft.nl/CEG-mechanics-BSc/).
 
 (editor)=
-## Over de auteur 👨‍🏫
+## Over de auteur
 
-### Tom van Woudenberg
+### Raoul Tjokrojoso
 
 ```{figure} figures/Tom.jpg
 :width: 300px
@@ -51,7 +51,7 @@ Naast constructiemechanicavakken, geeft Tom vakken over optimalisatie, numerieke
 - <i class="fa-brands fa-linkedin"></i> [LinkedIn profiel](https://www.linkedin.com/in/tom-van-woudenberg/)
 - {fa}`building-columns` [TU Delft profiel](https://www.tudelft.nl/en/staff/t.r.vanwoudenberg/)
 
-### Dankwoord 
+### Dankwoord
 Dank aan studentenassistent Iris Oskam voor het controleren van de antwoorden en toevoegen van uitwerkingen
 
 Daarnaast veel dank aan de diverse collega's en studentassistenten van [TeachBooks](https://teachbooks.io/) voor het ontwikkelen van tools en het bieden van ondersteuning om dit boek te verbeteren.
