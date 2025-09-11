@@ -6,7 +6,7 @@ Dit boek combineert theorie en oefeningen zoals behandeld tijdens de lessen.
 Dit boek verwijst naar relevante delen van andere literatuur voor extra voorbeelden en oefeningen:
 % - [Brightspace cursuspagina](https://brightspace.tudelft.nl/d2l/home/703722): deze Brightspace-pagina wordt alleen gebruikt voor mededelingen.
 
-- Statica, door {cite:ts}`Statica`. Onder andere verkrijgbaar bij [<img height="12px" src="./figures/logo-boom.svg" alt="Boom">](https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk).
+- Statica, door {cite:ts}`Statica`. Onder andere verkrijgbaar bij [Bol.com](https://www.bol.com/nl/nl/f/statica/9300000140810304/).
 
 
 ## Interactieve functies
