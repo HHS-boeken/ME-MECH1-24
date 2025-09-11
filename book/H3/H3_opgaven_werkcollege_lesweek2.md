@@ -12,7 +12,7 @@ width: 70%
 name: w3.3
 align: center
 ---
-: Opgave 1
+: Knooppunt van een vakwerk met drie krachten
 ```
 
 _Gevraagd:_

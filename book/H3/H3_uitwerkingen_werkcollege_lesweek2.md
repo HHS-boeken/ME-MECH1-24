@@ -9,11 +9,11 @@
 
 
 \begin{align*}
- |\overrightarrow{F_{1}}| &\approx 705.8  \text{ N}
+ |\overrightarrow{F_{1}}| &\approx -9.14 \text{ kN}
 \end{align*}
 
 \begin{align*}
- |\overrightarrow{F_{2}}| &\approx 817.6 \text{ N}
+ |\overrightarrow{F_{2}}| &\approx -9.32 \text{ kN}
 \end{align*}
 
 
@@ -23,7 +23,7 @@
 Maak een VLS:
 
 
-Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\overrightarrow{F_{1}}|$ :
+Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\overrightarrow{F_{2}}|$ :
 
 \begin{align}
 \Sigma{F_y} &= 0 \\
@@ -33,7 +33,7 @@ Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\o
 |\overrightarrow{F_{2}}| \cdot \sin (25) &= - |\overrightarrow{F_{3}}| \cdot \sin (80) \\
 |\overrightarrow{F_{2}}|  &= - |\overrightarrow{F_{3}}| \cdot \dfrac{\sin (80)}{\sin (25)}\\
 &= -4 \cdot \dfrac{\sin (80)}{\sin (25)}\\
-&\approx -9.32
+&\approx -9.32 \text{ kN}
 \end{align}
 
 \begin{align}
@@ -44,10 +44,10 @@ Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\o
 &= |\overrightarrow{F_{1}}|+ 8.45 + 0.69 \\
 &= |\overrightarrow{F_{1}}|+ 9.14 \\
 \\
-|\overrightarrow{F_{1}}| &\approx - 9.14  \\
+|\overrightarrow{F_{1}}| &\approx - 9.14  \text{ kN}\\
 \end{align}
-
 ```
 ````
+---
 
 <hr style="border:1px solid #9EA700">
