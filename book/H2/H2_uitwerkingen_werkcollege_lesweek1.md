@@ -130,7 +130,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
 \theta &= \arccos \left( \dfrac{-4.60}{8} \right) \\
-&=\approx 54.9 \text{ graden}
+&\approx 54.9 \text{ graden}
 \end{align}
 
 
