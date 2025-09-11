@@ -19,7 +19,7 @@ Bepaal de grootte en de richting van $P$ zodat het syteem in evenwicht is.
 
 ```{figure} ../figures/w3.2.png
 ---
-width: 70%
+width: 75%
 name: w3.2
 align: center
 ---
