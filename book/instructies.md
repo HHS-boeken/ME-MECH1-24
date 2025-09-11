@@ -9,7 +9,7 @@ Dit boek verwijst naar relevante delen van andere literatuur voor extra voorbeel
 - Statica, door {cite:ts}`Statica`. Onder andere verkrijgbaar bij [Bol.com](https://www.bol.com/nl/nl/f/statica/9300000140810304/).
 
 
-## Interactieve functies
+## Interactieve functies (OP DIT MOMENT ZIJN ER NOG GEEN INTERACTIEVE FUNCTIES)
 Dit TeachBook bevat interactieve functies!
 - Interactieve quizzen: Sommige pagina's bevatten interactieve 'H5p'-quizzen. Hiermee kun je je begrip toetsen. Interacties worden niet opgeslagen, tenzij je inlogt bij H5p.
 - Python-interactiviteit: Klik op {fa}`rocket` --> {guilabel}`Live Code` rechtsboven op een interactieve pagina om een python-kernel in je browser te starten! Interacties worden niet opgeslagen.
