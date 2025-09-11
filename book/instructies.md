@@ -5,7 +5,9 @@ Dit boek combineert theorie en oefeningen zoals behandeld tijdens de lessen.
 ## Gekoppelde literatuur en tools
 Dit boek verwijst naar relevante delen van andere literatuur voor extra voorbeelden en oefeningen:
 % - [Brightspace cursuspagina](https://brightspace.tudelft.nl/d2l/home/703722): deze Brightspace-pagina wordt alleen gebruikt voor mededelingen.
-- Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, door {cite:ts}`Hibbeler_Engineering_Mechanics_Statics`. Onder andere verkrijgbaar bij [<img height="12px" src="./figures/logo-boom.svg" alt="Boom">](https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk).
+
+- Mechanica: Statisch onbepaalde constructies en bezwijkanalyse, door {cite:ts}`Statica`. Onder andere verkrijgbaar bij [<img height="12px" src="./figures/logo-boom.svg" alt="Boom">](https://www.boom.nl/hoger-onderwijs/100-9587_Mechanica-Statisch-onbepaalde-constructies-en-bezwijkanalyse-3e-druk).
+
 - Mechanica: Evenwicht, door {cite:ts}`Hartsuijker1999`. Onder andere verkrijgbaar bij [<img height="12px" src="./figures/logo-boom.svg" alt="Boom">](https://www.boomhogeronderwijs.nl/product/100-9055_Mechanica-Evenwicht-3e-druk).
 
 

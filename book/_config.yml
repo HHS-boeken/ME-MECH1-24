@@ -57,5 +57,5 @@ parse:
     - substitution
     - amsmath
     
-bibtex_bibfiles: 
+bibtex_bibfiles:
   - references.bib
