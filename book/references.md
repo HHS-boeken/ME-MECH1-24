@@ -2,4 +2,4 @@
 
 :::{bibliography}:::
 
-Hibbeler, R. C. (2016). _Engineering Mechanics: Statics_ (14e editie). Pearson Prentice Hall
+Hibbeler, R. C. (2020). _Statica_ (14e editie). Pearson Benelux
