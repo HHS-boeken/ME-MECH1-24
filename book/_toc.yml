@@ -2,32 +2,31 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Werkcollege - Opgaven en Uitwerkingen 
+  - caption: Vakinformatie
     chapters:
-    - file: H1/H1_0_intro
+    - file: instructies
+
+  - caption: Hoorcollege
+    chapters:
+    - file: H2/H2_0_intro_hoorcollege
       sections:
-      - file: H1/H2_opgaven_werkcollege_lesweek1.md
-      - file: H1/H2_uitwerkingen_werkcollege_lesweek1.md
-      #- file: H1/Opgave_les2_1.ipynb
-      #- file: H1/Opgave_les2_2.ipynb
-      #- file: H1/Opgave_les2_3.ipynb
-      #- file: H1/Opgave_les2_4.ipynb
-      
-      #- file: H1/Opgave_les2_5.ipynb
-      #- file: H1/Opgave_les2_6.ipynb
-      #- file: H1/Opgave_les2_7.ipynb
-      #- file: H1/Opgave_les2_8.ipynb
-      
-      #- file: H1/Opgave_les3.ipynb
+      - file: H2/H2_opgaven_hoorcollege_lesweek1.md
+      - file: H2/H2_uitwerkingen_hoorcollege_lesweek1.md
 
-    #- file: H2/H2_0_intro
+    - file: H3/H3_0_intro_hoorcollege
+      sections:
+      - file: H3/H3_opgaven_hoorcollege_lesweek2.md
+      - file: H3/H3_uitwerkingen_hoorcollege_lesweek2.md
 
-    #- file: H3/H3_0_intro
-      #sections:
-      #- file: H3/Opgave_les3_1.ipynb
-      #- file: H3/Opgave_les3_2.ipynb
-      #- file: H3/Opgave_les3_3.ipynb
-      #- file: H3/Opgave_les3_4.ipynb
+  - caption: Werkcollege
+    chapters:
+    - file: H2/H2_0_intro_werkcollege
+      sections:
+      - file: H2/H2_opgaven_werkcollege_lesweek1.md
+      - file: H2/H2_uitwerkingen_werkcollege_lesweek1.md
 
-    #- file: H4/H4_0_intro
-
+  - caption: Diverse
+    chapters:
+    - file: references
+    - file: changelog
+    - file: credits
