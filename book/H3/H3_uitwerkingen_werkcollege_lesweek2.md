@@ -1,12 +1,11 @@
 # Uitwerkingen
 
+<hr style="border:3px solid #9EA700">
+
 ## Opgave 1
-
-
 
 ````{admonition} Antwoord
 :class:  dropdown
-
 
 \begin{align*}
  |\overrightarrow{F_{1}}| &\approx -9.14 \text{ kN}
@@ -16,12 +15,10 @@
  |\overrightarrow{F_{2}}| &\approx -9.32 \text{ kN}
 \end{align*}
 
-
 ```{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
-
 
 Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\overrightarrow{F_{2}}|$ :
 
@@ -48,7 +45,6 @@ Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\o
 \end{align}
 ```
 ````
----
 
 <hr style="border:1px solid #9EA700">
 
@@ -84,3 +80,5 @@ Stel de evenwichtsvergelijkingen op :
 \end{align}
 ```
 ````
+
+<hr style="border:1px solid #9EA700">

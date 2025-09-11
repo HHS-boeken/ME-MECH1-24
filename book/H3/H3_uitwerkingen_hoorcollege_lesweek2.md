@@ -1,10 +1,11 @@
 # Uitwerkingen
 
+<hr style="border:3px solid #9EA700">
+
 ## Terugblik Opgave 1
 
 ````{admonition} Antwoord
 :class:  dropdown
-
 
 \begin{align*}
 |\overrightarrow{F_{res}}| = 37.53 \text{ N}
@@ -13,7 +14,6 @@
 \begin{align*}
 \phi = 19.6 \text{ graden}
 \end{align*}
-
 
 ```{admonition} Uitwerking
 :class:  dropdown
@@ -32,7 +32,6 @@ F_{1;y} &=  |\overrightarrow{F_1}| \cdot \dfrac{3}{5} \\
 & = 50 \cdot \dfrac{3}{5} \\
 & = 30 \text{ kN} \uparrow
 \end{align}
-
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
 \begin{align}
@@ -150,11 +149,6 @@ $|\overrightarrow{F_{1}}|$ invullen geeft:
 &= 705.8 \cdot \dfrac{\cos (35)}{\cos (45)} \\
 & \approx 817.6 \text{ N}
 \end{align}
-
-
-
-
-
 ```
 ````
 
