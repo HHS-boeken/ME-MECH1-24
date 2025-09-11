@@ -17,9 +17,9 @@ align: center
 
 Bepaal de grootte en de richting van $P$ zodat het syteem in evenwicht is.
 
-```{figure} ../figures/w3.2.png
+```{figure} ../figures/ww3.2.png
 ---
-width: 75%
+width: 70%
 name: w3.2
 align: center
 ---
