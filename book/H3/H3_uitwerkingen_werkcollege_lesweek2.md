@@ -51,3 +51,36 @@ Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\o
 ---
 
 <hr style="border:1px solid #9EA700">
+
+## Opgave 2
+
+````{admonition} Antwoord
+:class:  dropdown
+
+\begin{align*}
+ |\overrightarrow{F_{1}}| &\approx -9.14 \text{ kN}
+\end{align*}
+
+\begin{align*}
+ |\overrightarrow{F_{2}}| &\approx -9.32 \text{ kN}
+\end{align*}
+
+```{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS van punt C:
+
+Stel de evenwichtsvergelijkingen op :
+
+\begin{align}
+\Sigma{F_y} &= 0 \\
+&= F_{1;y} +  F_{3;y} \\
+&= |\overrightarrow{F_{1}}| \cdot \sin (20) - |\overrightarrow{F_{3}}| \\
+&= (60 \cdot 9.81) \cdot \sin (20) - |\overrightarrow{F_{3}}| \\
+&= 588.6 \cdot \sin (20) - |\overrightarrow{F_{3}}| \\
+&= 201.31 - |\overrightarrow{F_{3}}| \\
+\\
+|\overrightarrow{F_{3}}| &\approx 201.31 \text{ kN}\\
+\end{align}
+```
+````

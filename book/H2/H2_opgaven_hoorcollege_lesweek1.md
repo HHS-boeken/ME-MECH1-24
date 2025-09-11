@@ -1,5 +1,7 @@
 # Opgaven
 
+<hr style="border:3px solid #9EA700">
+
 ## Opgave 1 (F2.3)
 
 Bepaal de grootte en de richting van de resultante kracht $\overrightarrow{F_{res}}$.
@@ -27,3 +29,5 @@ align: center
 ---
 F2.1 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
+
+<hr style="border:1px solid #9EA700">
