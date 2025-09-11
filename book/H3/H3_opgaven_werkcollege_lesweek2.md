@@ -1,6 +1,6 @@
 # Opgaven
 
-
+<hr style="border:3px solid #9EA700">
 
 ## Opgave 1
 
@@ -19,6 +19,8 @@ _Gevraagd:_
 
 Bepaal de krachten $F_1$ en $F_2$.
 
+<hr style="border:1px solid #9EA700">
+
 ## Opgave 2
 
 De massa van kist $A$ is gelijk aan 60 kg. Het sysyteem is in evenwicht. 
@@ -36,6 +38,8 @@ _Gevraagd:_
 
 Bepaal de massa van kist D.
 
+<hr style="border:1px solid #9EA700">
+
 ## Opgave 3
 
 Het gewicht van $W$ is 100 N. Het syteem in evenwicht is.
@@ -52,3 +56,5 @@ align: center
 _Gevraagd:_
 
 Bepaal de grootte en de richting van $P$.
+
+<hr style="border:1px solid #9EA700">
