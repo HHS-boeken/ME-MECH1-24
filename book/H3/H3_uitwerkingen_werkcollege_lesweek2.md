@@ -89,11 +89,11 @@ Stel de evenwichtsvergelijkingen op :
 :class:  dropdown
 
 \begin{align*}
- |\overrightarrow{F_{1}}| &\approx -9.14 \text{ kN}
+ |\overrightarrow{P}| &\approx 84.4  \text{ N} 
 \end{align*}
 
 \begin{align*}
- |\overrightarrow{F_{2}}| &\approx -9.32 \text{ kN}
+ \theta &\approx 54.7 graden
 \end{align*}
 
 ```{admonition} Uitwerking
