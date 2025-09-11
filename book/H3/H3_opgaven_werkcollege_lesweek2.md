@@ -13,7 +13,7 @@ align: center
 : Opgave 1
 ```
 
-## Opgave 1
+## Opgave 2
 
 Bepaal de grootte en de richting van $P$ zodat het syteem in evenwicht is.
 
@@ -24,4 +24,17 @@ name: w3.2
 align: center
 ---
 : Opgave 2
+```
+
+## Opgave 3
+
+Bepaal de grootte en de richting van $P$ zodat het syteem in evenwicht is.
+
+```{figure} ../figures/w3.1.png
+---
+width: 70%
+name: w3.3
+align: center
+---
+: Opgave 3
 ```
