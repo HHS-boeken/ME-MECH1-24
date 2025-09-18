@@ -53,13 +53,9 @@ Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\o
 ````{admonition} Antwoord
 :class:  dropdown
 
-\begin{align*}
- |\overrightarrow{F_{1}}| &\approx -9.14 \text{ kN}
-\end{align*}
+De massa van kist $D = 20.52$ kg.
 
-\begin{align*}
- |\overrightarrow{F_{2}}| &\approx -9.32 \text{ kN}
-\end{align*}
+
 
 ```{admonition} Uitwerking
 :class:  dropdown
@@ -76,7 +72,13 @@ Stel de evenwichtsvergelijkingen op :
 &= 588.6 \cdot \sin (20) - |\overrightarrow{F_{3}}| \\
 &= 201.31 - |\overrightarrow{F_{3}}| \\
 \\
-|\overrightarrow{F_{3}}| &\approx 201.31 \text{ kN}\\
+|\overrightarrow{F_{3}}| &\approx 201.31 \text{ N}\\
+\end{align}
+
+Bereken de massa van kist $D$;
+\begin{align}
+M &= \dfrac{201.31}{9.81} \\
+&= 20.52 \text{ kg}
 \end{align}
 ```
 ````

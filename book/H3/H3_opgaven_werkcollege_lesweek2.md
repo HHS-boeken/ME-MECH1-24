@@ -23,7 +23,7 @@ Bepaal de krachten $F_1$ en $F_2$.
 
 ## Opgave 2
 
-De massa van kist $A$ is gelijk aan 60 kg. Het sysyteem is in evenwicht. 
+De massa van kist $A$ is gelijk aan 60 kg. Het syteem is in evenwicht. 
 
 ```{figure} ../figures/w3.1.png
 ---
