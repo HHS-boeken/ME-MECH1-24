@@ -95,7 +95,7 @@ M &= \dfrac{201.31}{9.81} \\
 \end{align*}
 
 \begin{align*}
- \theta &\approx 54.7 graden
+ \theta &\approx 54.7 \text{ graden}
 \end{align*}
 
 ```{admonition} Uitwerking
