@@ -1,5 +1,14 @@
 # Changelog
 
+## v2025.1.0 Update na Werkcollege lesweek 2
+
+Toevoegen:
+- [Opgave werkcollege lesweek2](./H3/H3_opgaven_werkcollege_lesweek2.md)
+- [Uitwerkingen werkcollege lesweek2](./H3/H3_uitwerkingen_werkcollege_lesweek2.md)
+
+Kleine textuele verbeteringen in de opgaven en uitwerkingen van lesweek1 en lesweek2.
+Bekijk de volledige lijst met wijzigingen
+
 ## v2025.0.0 Start module
 - Eerste publicatie van boek voor nieuwe studiejaar
 
