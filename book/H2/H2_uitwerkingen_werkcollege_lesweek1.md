@@ -1,5 +1,7 @@
 # Uitwerkingen
 
+<hr style="border:3px solid #9EA700">
+
 Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij de vectoren ontbinden worden in een x- en y-component. Er wordt geen gebruik gemaakt van van de sinusregel of cosinusregel (Goniometrie).
 
 ## Opgave 1 (F2.2)
@@ -130,7 +132,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
 \theta &= \arccos \left( \dfrac{-4.60}{8} \right) \\
-&=\approx 54.9 \text{ graden}
+&\approx 54.9 \text{ graden}
 \end{align}
 
 
