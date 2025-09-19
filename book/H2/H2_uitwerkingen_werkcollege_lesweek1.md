@@ -61,7 +61,7 @@ Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 \uparrow_+ F_{res;y} &=  F_{1;y} + F_{2;y} \\
 & =  - 469.85 - 100 \\
-& \approx- 569.85 \text{ N}
+& \approx- 569.85 \text{ N} \\
 & \approx 569.85 \text{ N} \downarrow
 \end{align}
 
