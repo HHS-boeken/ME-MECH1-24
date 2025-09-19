@@ -52,14 +52,14 @@ F_{2;y} &= - |\overrightarrow{F_2}| \cdot \sin (30) \\
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
-F_{res;x} &=  F_{1;x} + F_{2;x} \\
+\rightarrow_+ F_{res;x} &=  F_{1;x} + F_{2;x} \\
 & = 171.01 + 173.21 \\
 & \approx 344.22 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-F_{res;y} &=  F_{1;y} + F_{2;y} \\
+\uparrow_+ F_{res;y} &=  F_{1;y} + F_{2;y} \\
 & =  - 469.85 - 100 \\
 & \approx- 569.85 \text{ N}
 & \approx 569.85 \text{ N} \downarrow
@@ -129,7 +129,7 @@ De resultante van $\overrightarrow{F_{A}}$ en $\overrightarrow{F_{B}}$ is naar r
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-F_{res;y} &=  F_{A;y} + F_{B;y} \\
+\uparrow_+ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 0 &= 8 \cdot \cos (\theta) - 4.60 \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
@@ -140,7 +140,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
-F_{res;x} &=  F_{A;x} + F_{B;x} \\
+\rightarrow_+ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 & = 8 \cdot \sin (\phi) + 3.86 \\
 & = 8 \cdot \sin (54.9) + 3.86 \\
 & = 6.55 + 3.86 \\
@@ -209,14 +209,14 @@ F_{3;y} &=  |\overrightarrow{F_3}| \cdot \dfrac{3}{5} \\
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
-F_{res;x} &=  F_{1;x} + F_{2;x} - F_{3;x}\\
+\rightarrow_+ F_{res;x} &=  F_{1;x} + F_{2;x} - F_{3;x}\\
 & = 300 + 346.41 - 200\\
 & \approx 446.41 \text{ N} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
+\uparrow_+ F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
 & = 0 + 200 + 150 \\
 & = 350 \text{ N} \uparrow
 \end{align}
@@ -299,7 +299,7 @@ F_{3;y} &=  |\overrightarrow{F_3}|  \cdot \dfrac{12}{13} \\
 
 De resultante kracht $F_{res;x}=750$:
 \begin{align}
-F_{res;x} &=  F_{1;x} + F_{2;x} + F_{3;x} \\
+\rightarrow_+ F_{res;x} &=  F_{1;x} + F_{2;x} + F_{3;x} \\
 750 &= 424.26 + |\overrightarrow{F_2}| \cdot \cos (\theta) + 125 \\
 200.74 &= |\overrightarrow{F_2}| \cdot \cos (\theta) \\
 |\overrightarrow{F_2}| &= \dfrac{200.74}{\cos (\theta)}
