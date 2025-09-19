@@ -45,34 +45,38 @@ F_{2;x} &=  |\overrightarrow{F_1}| \cdot \dfrac{1}{\sqrt{10}} \\
 \dfrac{F_2;y}{3} &= \dfrac{|\overrightarrow{F_2}|}{\sqrt{10}} \\
 F_{2;y} &= - |\overrightarrow{F_1}| \cdot \dfrac{3}{\sqrt{10}} \\
 & = - 30 \cdot \dfrac{3}{\sqrt{10}} \\
-& \approx - 28.46 \text{ kN} \downarrow
+& \approx - 28.46 \text{ kN} \\
+& \approx 28.46 \text{ kN} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F3}$ in $F_{3;x}$ en $F_{3;y}$ :
 \begin{align}
 F_{3;x} &=  - |\overrightarrow{F_3}| \cdot \cos (45) \\
 & = - 20 \cdot \cos (45) \\
-& \approx - 14.14 \text{ N} \leftarrow
+& \approx - 14.14 \text{ N} \\
+& \approx 14.14 \text{ N} \leftarrow
 \end{align}
 
 \begin{align}
 F_{3;y} &=  - |\overrightarrow{F_3}| \cdot \sin (45) \\
 & = - 20 \cdot \sin (45) \\
-& \approx - 14.14 \text{ N} \downarrow
+& \approx - 14.14 \text{ N} \\
+& \approx 14.14 \text{ N} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
-F_{res;x} &=  F_{1;x} + F_{2;x} + F_{3;x} \\
+\rightarrow_+ F_{res;x} &=  F_{1;x} + F_{2;x} + F_{3;x} \\
 & = 40 + 9.49 - 14.14  \\
 & \approx 35.35 \text{ kN} \rightarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-F_{res;y} &=  F_{1;y} + F_{2;y} + F_{2;y} \\
+\uparrow_+ F_{res;y} &=  F_{1;y} + F_{2;y} + F_{2;y} \\
 & = 30 - 28.46 - 14.14 \\
-& \approx -12.6 \text{ N} \downarrow
+& \approx -12.6 \text{ N} \\
+& \approx 12.6 \text{ N} \downarrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
