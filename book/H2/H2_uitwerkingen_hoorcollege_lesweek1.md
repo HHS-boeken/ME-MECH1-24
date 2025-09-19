@@ -15,7 +15,7 @@ Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij
 \end{align*}
 
 \begin{align*}
-\phi \approx 43.9 \text{ graden}
+\phi \approx 43.9^{\circ}
 \end{align*}
 
 
@@ -45,7 +45,8 @@ F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 \begin{align}
 F_{2;y} &=  - |\overrightarrow{F_2}| \cdot \sin (30) \\
 & = - 600 \cdot \sin (30) \\
-& = - 300 \text{ N} \downarrow
+& = - 300 \text{ N} \\
+& = 300 \text{ N} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
@@ -74,7 +75,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
 \phi &=  \arctan \left( \dfrac{ 500}{ 519.62} \right) \\
-& \approx 43.9 \text{ graden}
+& \approx 43.9^{\circ}
 \end{align}
 ```
 ````
@@ -88,7 +89,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 
 
 \begin{align*}
- \theta &= 103.5  \text{ graden}
+ \theta &= 103.5^{\circ}
 \end{align*}
 
 \begin{align*}
@@ -151,7 +152,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
 \phi &=  \arctan \left( \dfrac{ 6.61}{ -1.59} \right) \\
-&=  103.5 \text{ graden}
+&=  103.5^{\circ}
 \end{align}
 
 ```
