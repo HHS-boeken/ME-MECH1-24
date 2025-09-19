@@ -51,7 +51,7 @@ Bepaal het resulterend koppelmoment ter plaatse van punt $A$.
 
 ## Opgave 3
 
-Een vereenvoudigde constructie wordt belast met twee puntlasten $F_6 = 30 \text{ kN}$ en $F_2 = 50 \text{ kN}$ en een koppelmoment $T = 20 \text{ kNm}$, zie figuur. 
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 60 \text{ kN}$ en $F_2 = 50 \text{ kN}$ en een koppelmoment $T = 20 \text{ kNm}$, zie figuur. 
 
 ```{figure} ../figures/w4.3.png
 ---
