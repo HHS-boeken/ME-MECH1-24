@@ -87,13 +87,12 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 ````{admonition} Antwoord
 :class:  dropdown
 
-
 \begin{align*}
- \theta &= 103.5^{\circ}
+ |\overrightarrow{F_{res}}| &= 6.80 \text{ kN}
 \end{align*}
 
 \begin{align*}
- |\overrightarrow{F_{res}}| &= 6.80 \text{ kN}
+ \theta &= 103.5^{\circ}
 \end{align*}
 
 
@@ -104,13 +103,15 @@ Ontbind de kracht $\overrightarrow{F_{1}}$ in $F_{1;x}$ en $F_{1;y}$ :
 \begin{align}
 F_{1;x} &=  - |\overrightarrow{F_{1}}| \cdot \cos (60) \\
 & = - 6 \cdot \cos (60) \\
-& = - 3 \text{ N} \leftarrow
+& = - 3 \text{ N} \\
+& = 3 \text{ N} \leftarrow
 \end{align}
 
 \begin{align}
 F_{1;y} &=  - |\overrightarrow{F_{1}}| \cdot \sin (60) \\
 & = - 6 \cdot \sin (60) \\
-& = - 5.2 \text{ N} \downarrow
+& = - 5.2 \text{ N} \\
+& = 5.2 \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_{2}}$ in $F_{2;x}$ en $F_{2;y}$ :
@@ -123,21 +124,24 @@ F_{2;x} &=  |\overrightarrow{F_{2}}| \cdot \cos (45) \\
 \begin{align}
 F_{2;y} &=  - |\overrightarrow{F_{B}}| \cdot \sin (45) \\
 & = - 2 \cdot \sin (45) \\
-& = - 1.41 \text{ kN} \downarrow
+& = - 1.41 \text{ kN} \\
+& = 1.41 \text{ kN} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
 F_{res;x} &=  F_{1;x} + F_{2;x} \\
 & = -3 + 1.41 \\
-& = -1.59 \text{ kN} \leftarrow
+& = -1.59 \text{ kN} \\
+& = 1.59 \text{ kN} \leftarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} \\
 & = - 5.2 - 1.41 \\
-& = - 6.61 \text{ kN} \downarrow
+& = - 6.61 \text{ kN} \\
+& =  6.61 \text{ kN} \downarrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
