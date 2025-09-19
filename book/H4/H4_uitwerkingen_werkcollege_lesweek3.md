@@ -84,7 +84,7 @@ Stel de evenwichtsvergelijkingen op voor punt C:
 
 Bepaal de resultante kracht $F_{res;x}$:
 \begin{align}
-\rightarrow_+ F_{res;x} = \Sigma{F_x} \\
+\rightarrow_+ F_{res;x} &= \Sigma{F_x} \\
 \Sigma{F_x} &= F_{2;x}   \\
 &= |\overrightarrow{F_{2}}| \cdot \cos(70) \\
 &= 50 \cdot \cos (70) \\
@@ -93,7 +93,7 @@ Bepaal de resultante kracht $F_{res;x}$:
 
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-\uparrow_+ F_{res;y} = \Sigma{F_y} \\
+\uparrow_+ F_{res;y} &= \Sigma{F_y} \\
 \Sigma{F_x} &= F_{1;y} + F_{2;y}   \\
 &= - F_{1} + |\overrightarrow{F_{2}}| \cdot \sin(70)   \\
 &= - 60 + 50 \cdot \sin (70) \\
