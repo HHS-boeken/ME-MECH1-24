@@ -95,7 +95,7 @@ M &= \dfrac{201.31}{9.81} \\
 \end{align*}
 
 \begin{align*}
- \theta &\approx 54.7 \text{ graden}
+ \theta &\approx 54.7^{\circ}
 \end{align*}
 
 ```{admonition} Uitwerking
@@ -116,7 +116,7 @@ Bereken eerst de hoeken van het systeem
 Stel de evenwichtsvergelijkingen op voor punt C:
 
 \begin{align}
-\Sigma{F_x} &= 0 \\
+\rightarrow_+ \Sigma{F_x} &= 0 \\
 &= F_{1;x} + F_{2;x}  \\
 &= -|\overrightarrow{F_{1}}| \cdot \cos (7.13) + |\overrightarrow{F_{2}}| \cdot \cos (45) \\
 \\
@@ -126,7 +126,7 @@ Stel de evenwichtsvergelijkingen op voor punt C:
 \end{align}
 
 \begin{align}
-\Sigma{F_y} &= 0 \\
+\uparrow_+ \Sigma{F_y} &= 0 \\
 &= F_{1;y} + F_{2;y} + F_{3;y}  \\
 &= |\overrightarrow{F_{1}}| \cdot \sin (7.13) + |\overrightarrow{F_{2}}| \cdot \sin (45) - W \\
 &= |\overrightarrow{F_{1}}| \cdot \sin (7.13) + |\overrightarrow{F_{2}}| \cdot \sin (45) - 100 
@@ -155,7 +155,7 @@ $|\overrightarrow{F_{2}}|$ invullen geeft:
 Stel de evenwichtsvergelijkingen op voor punt B:
 
 \begin{align}
-\Sigma{F_x} &= 0 \\
+\rightarrow_+ \Sigma{F_x} &= 0 \\
 &= F_{1;x} + F_{4;x} + P_x  \\
 0 &= |\overrightarrow{F_{1}}| \cdot \cos (7.13) - |\overrightarrow{F_{4}}| \cdot \cos (63.4) -  |\overrightarrow{P}| \cdot \cos (\theta)
 \end{align}
@@ -169,7 +169,7 @@ $|\overrightarrow{F_{1}}| $ en $|\overrightarrow{F_{2}}| $ zijn gelijk vanwege d
 \end{align}
 
 \begin{align}
-\Sigma{F_y} &= 0 \\
+\uparrow_+ \Sigma{F_y} &= 0 \\
 &= F_{1;y} + F_{4;y} + P_y  \\
 0 &= -|\overrightarrow{F_{1}}| \cdot \sin (7.13) + |\overrightarrow{F_{4}}| \cdot \sin (63.4) -  |\overrightarrow{P}| \cdot \sin (\theta)
 \end{align}
@@ -190,7 +190,7 @@ $|\overrightarrow{P}|$ invullen geeft:
 48.8 \cdot \tan (\theta)  &= 69.01 \\
 \tan (\theta)  &= \dfrac{69.01}{48.8} \\
 \theta &= \arctan (\dfrac{69.01}{48.8}) \\
-\theta &\approx 54.7
+\theta &\approx 54.7^{\circ}
 \end{align}
 
 $\theta$ invullen geeft:

@@ -12,7 +12,7 @@ width: 50%
 name: demoexample1
 align: center
 ---
-F2.3 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
+: F2.3 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
 
 <hr style="border:1px solid #9EA700">
@@ -27,7 +27,7 @@ width: 70%
 name: demoexample1
 align: center
 ---
-F2.1 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
+: F2.1 - Overgenomen uit Engineering mechanics: Statics (14th ed., p. xx), door R. C. Hibbeler, 2016, Pearson. Copyright 2016 door Pearson.
 ```
 
 <hr style="border:1px solid #9EA700">
