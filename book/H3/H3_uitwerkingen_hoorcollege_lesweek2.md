@@ -12,7 +12,7 @@
 \end{align*}
 
 \begin{align*}
-\phi = 19.6 \text{ graden}
+\phi = 19.6^{\circ}
 \end{align*}
 
 ```{admonition} Uitwerking
@@ -91,7 +91,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan (\dfrac{F_{res;y}}{F_{res;x}}) \\
 \phi &=  \arctan (\dfrac{ 12.6}{ 35.35}) \\
-& \approx 19.6 \text{ graden}
+& \approx 19.6^{\circ}
 \end{align}
 ```
 ````
@@ -122,7 +122,7 @@ Maak een VLS:
 Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\overrightarrow{F_{1}}|$ :
 
 \begin{align}
-\Sigma{F_x} &= 0 \\
+\rightarrow_+ \Sigma{F_x} &= 0 \\
 &= F_{1;x} +  F_{2;x} = 0 \\
 &= - |\overrightarrow{F_{1}}| \cdot \cos (35) + |\overrightarrow{F_{2}}| \cdot \cos (45) \\
 \\
@@ -131,7 +131,7 @@ Stel de evenwichtsvergelijkingen op en bepaal $|\overrightarrow{F_{1}}|$ en $|\o
 \end{align}
 
 \begin{align}
-\Sigma{F_y} &= 0 \\
+\UParrow_+ \Sigma{F_y} &= 0 \\
 &= F_{1;y} +  F_{2;y} + F_3  \\
 &= |\overrightarrow{F_{1}}| \cdot \sin (35) + |\overrightarrow{F_{2}}| \cdot \sin (45) - (100 \cdot 9.81)   \\
 \end{align}
