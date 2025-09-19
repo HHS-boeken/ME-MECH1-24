@@ -251,7 +251,7 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 \end{align*}
 
 \begin{align*}
-\theta \approx  31.76 \text{ graden}
+\theta \approx  31.76^{\circ}
 \end{align*}
 
 
@@ -268,7 +268,8 @@ F_{1;x} &=   |\overrightarrow{F_1}|  \cdot \cos (45) \\
 \begin{align}
 F_{1;y} &=  - |\overrightarrow{F_1}|  \cdot \sin (45) \\
 & = - 600 \cdot \sin (45) \\
-& \approx - 424.26  \text{ N} \downarrow
+& \approx - 424.26  \text{ N} \\
+& \approx 424.26  \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
@@ -308,7 +309,7 @@ De resultante kracht $F_{res;x}=750$:
 De resultante van $F_1$, $F_2$ en $F_3$ ligt op de x-as dus $F_{res;y} = 0$. \
 Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
-F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
+\uparrow_+ F_{res;y} &=  F_{1;y} + F_{2;y} + F_{3;y} \\
 0 &= -424.26 + |\overrightarrow{F_2}| \cdot \sin (\theta) + 300   \\
 124.26 &= |\overrightarrow{F_2}| \cdot \sin (\theta)
 \end{align}
@@ -321,7 +322,7 @@ Substitutie van $F_2$ geeft:
 124.26 &= 200.74 \cdot \tan(\theta) \\
 \tan(\theta) &= \dfrac{ 124.26}{200.74} \\
 \theta &= \arctan \left( \dfrac{ 124.26}{200.74} \right) \\
-& \approx 31.76 \text{ graden}
+& \approx 31.76^{\circ}
 \end{align}
 
 $\theta$ invullen geeft de grootte van F:
