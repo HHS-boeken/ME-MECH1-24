@@ -17,8 +17,6 @@ M_R &= -105.79 \text{ kNm} = 105.79 \text{ kNm} \circlearrowright\\
 
 Maak een VLS:
 
-
-
 \begin{align}
 M_R &= \Sigma{M_{|A}}  \\
 \circlearrowleft_+ \Sigma{M_{|A}}  &= - F_{1;x} \cdot d_{1;y} - F_{1;y} \cdot d_{1;x} + F_{2;x} \cdot d_{2;y} - F_{2;y} \cdot d_{2;x} + T \\
@@ -28,7 +26,6 @@ M_R &= \Sigma{M_{|A}}  \\
 \\
 M_R &= -105.79 \text{ kNm} = 105.79 \text{ kNm} \circlearrowright\\
 \end{align}
-
 
 ```
 ````
@@ -50,8 +47,6 @@ M_R &= -112.43 \text{ kNm} = 112.43 \text{ kNm} \circlearrowright\\
 
 Maak een VLS:
 
-
-
 \begin{align}
 M_R &= \Sigma{M_{|A}}  \\
 \circlearrowleft_+ \Sigma{M_{|A}}  &= - F_{1} \cdot d_{1;y} + F_{2} \cdot d - F_{3;x} \cdot d_{3;y} - F_{3;y} \cdot d_{3;x} \\
@@ -72,7 +67,7 @@ M_R &= -112.43 \text{ kNm} = 112.43 \text{ kNm} \circlearrowright\\
 :class:  dropdown
 
 \begin{align*}
- |\overrightarrow{P}| &\approx 84.4  \text{ N} 
+ |\overrightarrow{P}| &\approx 84.4  \text{ N}
 \end{align*}
 
 \begin{align*}
@@ -118,7 +113,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
 \phi &=  \arctan \left( \dfrac{ 13.02}{ 17.10} \right) \\
 &\approx 37.3 \text{ graden}
-\end{align} 
+\end{align}
 
 \begin{align}
 \circlearrowleft_+ \Sigma{M_{|A}}  &= - F_{1} \cdot d_{1;x} + F_{2;x} \cdot d_{2;y} + F_{2;y} \cdot d_{2;x} + T \\
@@ -134,8 +129,6 @@ F_{res;y} \cdot d &= \Sigma{M_{|A}} \\
 d &= \dfrac{168.89}{-13.02}\\
 d &= -12.97 \text{ m}
 \end{align}
-
-
 
 
 ```
