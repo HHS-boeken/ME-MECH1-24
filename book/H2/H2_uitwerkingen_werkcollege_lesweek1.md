@@ -15,7 +15,7 @@ Bij de uitwerkingen van de opgaven wordt gebruik gemaakt van de methode, waarbij
 \end{align*}
 
 \begin{align*}
-\phi \approx 58.9 \text{ graden}
+\phi \approx 58.9^{\circ}
 \end{align*}
 
 
@@ -32,7 +32,8 @@ F_{1;x} &=  |\overrightarrow{F_1}| \cdot \cos (70) \\
 \begin{align}
 F_{1;y} &= - |\overrightarrow{F_1}| \cdot \sin (70) \\
 & = - 500 \cdot \sin (70) \\
-& \approx - 469.85 \text{ N} \downarrow
+& \approx - 469.85 \text{ N} \\
+& \approx  469.85 \text{ N} \downarrow
 \end{align}
 
 Ontbind de kracht $\overrightarrow{F_2}$ in $F_{2;x}$ en $F_{2;y}$ :
@@ -45,7 +46,8 @@ F_{2;x} &=  |\overrightarrow{F_2}| \cdot \cos (30) \\
 \begin{align}
 F_{2;y} &= - |\overrightarrow{F_2}| \cdot \sin (30) \\
 & = - 200 \cdot \sin (30) \\
-& = - 100 \text{ N} \downarrow
+& = - 100 \text{ N} \\
+& = 100 \text{ N} \downarrow
 \end{align}
 
 Bepaal de resultante kracht $F_{res;x}$:
@@ -59,7 +61,8 @@ Bepaal de resultante kracht $F_{res;y}$:
 \begin{align}
 F_{res;y} &=  F_{1;y} + F_{2;y} \\
 & =  - 469.85 - 100 \\
-& \approx- 569.85 \text{ N} \downarrow
+& \approx- 569.85 \text{ N}
+& \approx 569.85 \text{ N} \downarrow
 \end{align}
 
 Bepaal de grootte van de resultante kracht $\overrightarrow{F_{res}}$:
@@ -74,7 +77,7 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 \tan (\phi) &= \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
 \phi &=  \arctan \left( \dfrac{ 569.85}{ 344.22} \right) \\
-&\approx 58.9 \text{ graden}
+&\approx 58.9^{\circ}
 \end{align}
 ```
 ````
@@ -86,15 +89,13 @@ Bepaal de richting van de resultante kracht  $\overrightarrow{F_{res}}$:
 ````{admonition} Antwoord
 :class:  dropdown
 
-
-\begin{align*}
- \theta &\approx 54.9  \text{ graden}
-\end{align*}
-
 \begin{align*}
  |\overrightarrow{F_{res}}| &\approx10.41 \text{ kN}
 \end{align*}
 
+\begin{align*}
+ \theta &\approx 54.9^{\circ}
+\end{align*}
 
 ```{admonition} Uitwerking
 :class:  dropdown
@@ -120,7 +121,8 @@ F_{B;x} &=  |\overrightarrow{F_{B}}| \cdot \sin (40) \\
 \begin{align}
 F_{B;y} &= - |\overrightarrow{F_{B}}| \cdot \cos (40) \\
 & = - 6 \cdot \cos (40) \\
-& \approx - 4.60 \text{ kN} \downarrow
+& \approx - 4.60 \text{ kN} \\
+& \approx 4.60 \text{ kN} \downarrow
 \end{align}
 
 De resultante van $\overrightarrow{F_{A}}$ en $\overrightarrow{F_{B}}$ is naar rechts gericht dus $F_{res;y} = 0$.
@@ -132,7 +134,7 @@ F_{res;y} &=  F_{A;y} + F_{B;y} \\
 4.60 &= 8 \cdot \cos (\theta) \\
 \cos (\theta) &= \dfrac{4.60}{8} \\
 \theta &= \arccos \left( \dfrac{-4.60}{8} \right) \\
-&\approx 54.9 \text{ graden}
+&\approx 54.9^{\circ}
 \end{align}
 
 
@@ -155,16 +157,13 @@ F_{res;x} &=  F_{A;x} + F_{B;x} \\
 ````{admonition} Antwoord
 :class:  dropdown
 
-
 \begin{align*}
 |\overrightarrow{F_{res}}| \approx 567.26 \text{ N}
 \end{align*}
 
 \begin{align*}
-\phi \approx 38.1 \text{ graden}
+\phi \approx 38.1^{\circ}
 \end{align*}
-
-
 
 ```{admonition} Uitwerking
 :class:  dropdown
@@ -197,7 +196,8 @@ Ontbind de kracht $\overrightarrow{F_3}$ in $F_{3;x}$ en $F_{3;y}$ :
 \dfrac{F_3;x}{4} &= \dfrac{|\overrightarrow{F_3}|}{5} \\
 F_{3;x} &= - |\overrightarrow{F_3}| \cdot \dfrac{4}{5} \\
 & = - 250 \cdot \dfrac{4}{5} \\
-& = - 200 \text{ N} \leftarrow
+& = - 200 \text{ N} \\
+& = 200 \text{ N} \leftarrow
 \end{align}
 
 \begin{align}
@@ -233,7 +233,7 @@ Bepaal de richting van de resultante kracht $\overrightarrow{F_{res}}$:
 \tan (\phi) & = \dfrac{F_{res;y}}{F_{res;x}} \\
 \phi &=  \arctan \left( \dfrac{F_{res;y}}{F_{res;x}} \right) \\
 \phi &=  \arctan \left( \dfrac{ 350}{ 446.41} \right) \\
-&\approx 38.1 \text{ graden}
+&\approx 38.1^{\circ}
 \end{align}
 ```
 ````
