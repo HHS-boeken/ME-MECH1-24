@@ -18,10 +18,10 @@ parts:
       - file: H3/H3_opgaven_hoorcollege_lesweek2.md
       - file: H3/H3_uitwerkingen_hoorcollege_lesweek2.md
     
-    - file: H4/H4_0_intro_hoorcollege
-      sections:
-      - file: H4/H4_opgaven_hoorcollege_lesweek3.md
-      - file: H4/H4_uitwerkingen_hoorcollege_lesweek3.md
+    #- file: H4/H4_0_intro_hoorcollege
+    #  sections:
+    #  - file: H4/H4_opgaven_hoorcollege_lesweek3.md
+    #  - file: H4/H4_uitwerkingen_hoorcollege_lesweek3.md
     
     - file: H5/H5_0_intro_hoorcollege
       sections:
