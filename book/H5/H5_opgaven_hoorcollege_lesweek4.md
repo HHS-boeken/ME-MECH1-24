@@ -2,7 +2,7 @@
 
 ## Terugblik Opgave 1
 
-Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{ kN}$, $F_2 = 30 \text{ kN}$ en $F_3 = 50 \text{ kN}$ en een koppelmoment $T = 10 \text{ kNm}$, zie {numref}`h5.0`.
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 35 \text{ kN}$, $F_2 = 55 \text{ kN}$ en een koppelmoment $T = 70 \text{ kNm}$, zie {numref}`h5.0`.
 
 ```{figure} ../figures/H5.0.png
 ---
@@ -19,7 +19,7 @@ $F_{1}$ =  35 kN; $F_{2}$ =  55 kN; $T$ = 70 kNm;
 
 _Gevraagd:_
 
-Bepaal het resulterende moment geleverd door de krachten en koppels om punt $A$.
+Bepaal het resulterende moment om punt $A$ geleverd door de krachten en koppels.
 
 
 <hr style="border:1px solid #9EA700">
