@@ -2,16 +2,25 @@
 
 ## Terugblik Opgave 1
 
-Bepaal de grootte en de richting van de resultante kracht $\overrightarrow{F_{res}}$.
+Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{ kN}$, $F_2 = 30 \text{ kN}$ en $F_3 = 50 \text{ kN}$ en een koppelmoment $T = 10 \text{ kNm}$, zie {numref}`h5.0`.
 
-```{figure} ../figures/vb1.png
+```{figure} ../figures/H5.0.png
 ---
 width: 70%
-name: demoexample1
+name: h5.0
 align: center
 ---
-Voorbeeld opgave 1
+:Terugblik opgave 1
 ```
+
+_Gegevens:_
+
+$F_{1}$ =  35 kN; $F_{2}$ =  55 kN; $T$ = 70 kNm;
+
+_Gevraagd:_
+
+Bepaal het resulterende moment geleverd door de krachten en koppels om punt $A$.
+
 
 <hr style="border:1px solid #9EA700">
 
@@ -65,7 +74,7 @@ Bepaal de steunpuntsreacties in punt $A$.
 
 ## Voorbeeld Opgave 3
 
-Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 30 \text{ kN}$ en $F_2 = 10 \text{ kN}$ en een koppelmoment $T = 20 \text{ kNm}$, zie figuur.
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 50 \text{ kN}$ en $F_2 = 15 \text{ kN}$ en een koppelmoment $T = 25 \text{ kNm}$, zie figuur.
 
 ```{figure} ../figures/H5.3.png
 ---
