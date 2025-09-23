@@ -22,6 +22,11 @@ parts:
       sections:
       - file: H4/H4_opgaven_hoorcollege_lesweek3.md
       - file: H4/H4_uitwerkingen_hoorcollege_lesweek3.md
+    
+    - file: H5/H5_0_intro_hoorcollege
+      sections:
+      - file: H5/H5_opgaven_hoorcollege_lesweek4.md
+      - file: H5/H5_uitwerkingen_hoorcollege_lesweek4.md
   
   - caption: Werkcollege
     chapters:
