@@ -6,7 +6,6 @@ Toevoegen:
 - [Opgave werkcollege lesweek4](./H5/H5_opgaven_hoorcollege_lesweek4.md)
 - [Uitwerkingen werkcollege lesweek4](./H5/H5_uitwerkingen_hoorcollege_lesweek4.md)
 
-Kleine textuele verbeteringen in de opgaven en uitwerkingen van lesweek1 en lesweek2.
 Bekijk de volledige lijst met wijzigingen
 
 ## v2025.2.0 Update na Werkcollege lesweek 3
