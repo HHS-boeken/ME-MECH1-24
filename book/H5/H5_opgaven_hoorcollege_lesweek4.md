@@ -50,7 +50,7 @@ Bepaal de reactiekrachten [in kN] in punt $A$ en $B$.
 
 ## Voorbeeld Opgave 2
 
-Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{ kN}$, $F_2 = 30 \text{ kN}$ en $F_3 = 50 \text{ kN}$ en een koppelmoment $T = 10 \text{ kNm}$, zie {numref}`H5.2`.
+Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{ kN}$, $F_2 = 30 \text{ kN}$ en $F_3 = 50 \text{ kN}$ en een koppelmoment $T = 10 \text{ kNm}$, zie {numref}`H5.22`.
 
 ```{figure} ../figures/H5.2.png
 ---
