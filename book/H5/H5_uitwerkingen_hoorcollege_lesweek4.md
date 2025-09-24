@@ -30,7 +30,7 @@ M_R &= 325.99 \text{ kNm} \circlearrowleft\\
 
 <hr style="border:1px solid #9EA700">
 
-## Oefenopgave 1
+## Voorbeeld Opgave 1
 
 ````{admonition} Antwoord
 :class:  dropdown
@@ -91,7 +91,7 @@ A_y &= 49 \text{ kN} \uparrow
 
 <hr style="border:1px solid #9EA700">
 
-## Oefenopgave 2
+## Voorbeeld Opgave 2
 
 ````{admonition} Antwoord
 :class:  dropdown
@@ -99,7 +99,7 @@ A_y &= 49 \text{ kN} \uparrow
 De reactiekrachten in punt A zijn:
 \begin{align*}
 A_x &= 35.36 \text{ kN}  \rightarrow \\
-A_y &= 4.64 \text{ kN} \uparrow
+A_y &= 4.64 \text{ kN} \uparrow \\
 M_A &= 42.51  \text{ kNm} \circlearrowleft
 \end{align*}
 
@@ -147,7 +147,7 @@ M_A &= 42.51  \text{ kNm} \circlearrowleft
 <hr style="border:1px solid #9EA700">
 
 
-## Oefenopgave 3
+## Voorbeeld Opgave 3
 
 ````{admonition} Antwoord
 :class:  dropdown
