@@ -55,7 +55,7 @@ Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{
 ```{figure} ../figures/H5.2.png
 ---
 width: 70%
-name: H5.2
+name: H5.22
 align: center
 ---
 : Opgave 2
