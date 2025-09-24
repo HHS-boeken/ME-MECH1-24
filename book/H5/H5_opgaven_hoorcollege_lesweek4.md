@@ -2,12 +2,12 @@
 
 ## Terugblik Opgave 1
 
-Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 35 \text{ kN}$, $F_2 = 55 \text{ kN}$ en een koppelmoment $T = 70 \text{ kNm}$, zie {numref}`h5.0`.
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 35 \text{ kN}$, $F_2 = 55 \text{ kN}$ en een koppelmoment $T = 70 \text{ kNm}$, zie {numref}`H5.0`.
 
 ```{figure} ../figures/H5.0.png
 ---
 width: 70%
-name: h5.0
+name: H5.0
 align: center
 ---
 :Terugblik opgave 1
@@ -26,7 +26,7 @@ Bepaal het resulterende moment om punt $A$ geleverd door de krachten en koppels.
 
 ## Voorbeeld Opgave 1
 
-Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 30 \text{ kN}$ en $F_2 = 50 \text{ kN}$, zie figuur.
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 30 \text{ kN}$ en $F_2 = 50 \text{ kN}$, zie {numref}`H5.1`.
 
 ```{figure} ../figures/H5.1.png
 ---
@@ -50,7 +50,7 @@ Bepaal de reactiekrachten [in kN] in punt $A$ en $B$.
 
 ## Voorbeeld Opgave 2
 
-Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{ kN}$, $F_2 = 30 \text{ kN}$ en $F_3 = 50 \text{ kN}$ en een koppelmoment $T = 10 \text{ kNm}$, zie figuur.
+Een vereenvoudigde constructie wordt belast met drie puntlasten $F_1 = 10 \text{ kN}$, $F_2 = 30 \text{ kN}$ en $F_3 = 50 \text{ kN}$ en een koppelmoment $T = 10 \text{ kNm}$, zie {numref}`H5.2`.
 
 ```{figure} ../figures/H5.2.png
 ---
@@ -74,7 +74,7 @@ Bepaal de steunpuntsreacties in punt $A$.
 
 ## Voorbeeld Opgave 3
 
-Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 50 \text{ kN}$ en $F_2 = 15 \text{ kN}$ en een koppelmoment $T = 25 \text{ kNm}$, zie figuur.
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 50 \text{ kN}$ en $F_2 = 15 \text{ kN}$ en een koppelmoment $T = 25 \text{ kNm}$, zie {numref}`H5.3`.
 
 ```{figure} ../figures/H5.3.png
 ---
