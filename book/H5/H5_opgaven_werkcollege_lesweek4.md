@@ -31,7 +31,7 @@ Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 65 \text{
 
 ```{figure} ../figures/WC4.2.png
 ---
-width: 50%
+width: 70%
 name: WC4.2
 align: center
 ---
