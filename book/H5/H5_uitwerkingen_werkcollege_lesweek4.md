@@ -7,14 +7,14 @@
 
 De reactiekrachten in punt A zijn:
 \begin{align*}
-A_x &= 0 \text{ kN} \\
-A_y &= 49 \text{ kN} \uparrow
+A_x &= 37.5  \text{ kN} \rightarrow \\
+A_y &= 77.16 \text{ kN} \uparrow
 \end{align*}
 
 
 De reactiekrachten in punt B zijn:
 \begin{align*}
-B_y &= 31 \text{ kN} \uparrow
+B_y&= -32.21 \text{ kN} = 32.21 \text{ kN} \downarrow \\
 \end{align*}
 
 ```{admonition} Uitwerking
@@ -27,33 +27,89 @@ Stel de evenwichtsvergelijkingen op:
 Horizontale krachtenvevenwicht geeft:
 \begin{align}
 \rightarrow_+ \Sigma{F_x} &= 0 \\
-&= A_x = 0 \text{ kN}
+&= A_x - F_{1;x } \\
+&= A_x - F_{1} \cdot \cos(60) \\
+&= A_x - 75 \cdot \cos(60) \\
+&= A_x - 37.5 \\
+A_x &= 37.5  \text{ kN} \rightarrow
+\end{align}
+
+
+Momentenevenwicht geeft:
+\begin{align}
+\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
+&= F_{1;y} \cdot 3 - T + F_2 \cdot 7 + B_y \cdot 9\\
+&= 75 \cdot \sin(60)  \cdot 3 - 45 + 20 \cdot 7 + B_y \cdot 9 \\
+&= 194.86 - 45 + 140 + 9B_y \\
+-9B_y &= 289.86 \\
+B_y&= \dfrac{289.86}{-9} = -32.21 \text{ kN} = 32.21 \text{ kN} \downarrow \\
 \end{align}
 
 Verticale krachtenevenwicht geeft:
 \begin{align}
 \uparrow_+  \Sigma{F_y} &= 0 \\
-&= A_y -F_1 - F_2 + B_y \\
-&= A_y -30 - 50 + B_y \\
-&= A_y - 80 + B_y \\
-A_y &= 80 - B_y
+&= A_y -F_{1;y} + F_2 - B_y \\
+&= A_y -75 \cdot \sin(60) + 20 - 32.21 \\
+&= A_y - 77.16 \\
+A_y &= 77.16 \text{ kN} \uparrow
+\end{align}
+
+
+```
+````
+
+<hr style="border:1px solid #9EA700">
+
+## Opgave 2
+
+````{admonition} Antwoord
+:class:  dropdown
+
+De reactiekrachten in punt A zijn:
+\begin{align*}
+A_x &= -15.96 \text{ kN} = 15.96 \text{ kN}= \leftarrow \\
+M_A &= -425.58  \text{ kNm} = 425.58  \text{ kNm} \circlearrowright
+\end{align*}
+
+De reactiekrachten in punt B zijn:
+\begin{align*}
+B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
+\end{align*}
+
+```{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+Stel de evenwichtsvergelijkingen op:
+
+Horizontale krachtenvevenwicht geeft:
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+&= A_x + F_{1;x} - F_{2;x} \\
+&= A_x + F_1 \cdot \cos(45) - F_{2;x} \\
+&= A_x + 65 \cdot \cos (45) - 30\\
+&= A_x + 15.96 \\
+A_x &= -15.96 \text{ kN} = 15.96 \text{ kN}= \leftarrow
+\end{align}
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= B_y +  F_{1;y} \\
+&= B_y + 65 \cdot \sin(45) \\
+&= B_y + 45.96\\
+B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
 \end{align}
 
 Momentenevenwicht geeft:
 \begin{align}
 \circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
-&= -F_1 \cdot 2 - F_2 \cdot 5 + B_y \cdot 10 \\
-&= -30 \cdot 2 - 50 \cdot 5 + By \cdot 10 \\
-&= -60 - 250 +10By \\
--10By &= -310 \\
-By&= \dfrac{-310}{-10} = 31 \text{ kN} \uparrow \\
-\end{align}
-
-$B_y$ invullen geeft:
-\begin{align}
-A_y &= 80 - B_y \\
-A_y &= 80 - 31 \\
-A_y &= 49 \text{ kN} \uparrow
+&= M_A + T_1 + T_2 + F_{1;y} \cdot 9 + F_{1;x} \cdot 2 - F_{2} \cdot 4  \\
+&= M_A + 15 + 25 + 65 \cdot \sin(45) \cdot 9 + 65 \cdot \cos(45) \cdot 2 - 30 \cdot 4  \\
+&= M_A + 40 + 413.66 + 91.92 - 120 \\
+&= M_A + 425.58 \\
+M_A &= -425.58  \text{ kNm} = 425.58  \text{ kNm} \circlearrowright
 \end{align}
 
 ```
@@ -61,77 +117,18 @@ A_y &= 49 \text{ kN} \uparrow
 
 <hr style="border:1px solid #9EA700">
 
-## Voorbeeld Opgave 2
+
+## Opgave 3
 
 ````{admonition} Antwoord
 :class:  dropdown
-
-De reactiekrachten in punt A zijn:
-\begin{align*}
-A_x &= 35.36 \text{ kN}  \rightarrow \\
-A_y &= 4.64 \text{ kN} \uparrow \\
-M_A &= 42.51  \text{ kNm} \circlearrowleft
-\end{align*}
-
-
-```{admonition} Uitwerking
-:class:  dropdown
-
-Maak een VLS:
-
-Stel de evenwichtsvergelijkingen op:
-
-Horizontale krachtenvevenwicht geeft:
-\begin{align}
-\rightarrow_+ \Sigma{F_x} &= 0 \\
-&= A_x - F_{3;x} \\
-&= A_x - F_3 \cdot \cos(45) \\
-&= A_x - 50 \cdot \cos (45) \\
-&= A_x - 35.36 \\
-A_x = 35.36 \text{ kN} \rightarrow
-\end{align}
-
-Verticale krachtenevenwicht geeft:
-\begin{align}
-\uparrow_+  \Sigma{F_y} &= 0 \\
-&= A_y -F_1 - F_2 +  F_{3;y} \\
-&= A_y -10 - 30 + 50 \cdot \sin(45) \\
-&= A_y - 40 + 35.36\\
-&= A_y - 4.64 \\
-A_y &= 4.64 \text{ kN} \uparrow
-\end{align}
-
-Momentenevenwicht geeft:
-\begin{align}
-\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
-&= M_A - F_1 \cdot 3 + T - F_2 \cdot 9 + F_{3;y} \cdot 11 - F_{3;x} \cdot 4  \\
-&= M_A - 10 \cdot 3 + 10 - 30 \cdot 9 + 50 \sin(45) \cdot 11 - 50 \cos(45) \cdot 4  \\
-&= M_A - 30 + 10 -270 +  388,.91 - 141.42\\
-&= M_A - 42.51 \\
-M_A &= 42.51  \text{ kNm} \circlearrowleft
-\end{align}
-
-```
-````
-
-<hr style="border:1px solid #9EA700">
-
-
-## Voorbeeld Opgave 3
-
-````{admonition} Antwoord
-:class:  dropdown
-
-De reactiekrachten in punt A zijn:
-\begin{align*}
-A_y &= 65 \text{ kN} \uparrow
-\end{align*}
 
 
 De reactiekrachten in punt B zijn:
 \begin{align*}
-B_x &= 0 \text{ kN} \\
-M_B &= 310 \text{ kNm} \circlearrowleft
+B_x &= -29.07 \text{ kN} = 29.07 \text{ kN} \leftarrow \\
+B_y &= 16.86 \text{ kN} \uparrow \\
+M_B &= 720.70  \text{ kNm} \circlearrowleft
 \end{align*}
 
 ```{admonition} Uitwerking
@@ -144,27 +141,33 @@ Stel de evenwichtsvergelijkingen op:
 Horizontale krachtenvevenwicht geeft:
 \begin{align}
 \rightarrow_+ \Sigma{F_x} &= 0 \\
-&= B_x = 0  \text{ kN}\\
+&= B_x + F_{1;x} \\
+&= B_x + F_1 \cdot \dfrac{1}{\sqrt{5}} \\
+&= B_x + 65 \cdot \dfrac{1}{\sqrt{5}} \\
+&= B_x + 29.07 \\
+B_x &= -29.07 \text{ kN} = 29.07 \text{ kN} \leftarrow
 \end{align}
 
 Verticale krachtenevenwicht geeft:
 \begin{align}
 \uparrow_+  \Sigma{F_y} &= 0 \\
-&= A_y -F_1 - F_2 \\
-&= A_y -50 - 15 \\
-&= A_y -65\\
-A_y &= 65 \text{ kN} \uparrow
+&= B_y + F_{1:y} - F_2 \\
+&= B_y + 65 \cdot \dfrac{2}{\sqrt{5}} - 75 \\
+&= B_y -16.86\\
+B_y &= 16.86 \text{ kN} \uparrow
 \end{align}
 
 Momentenevenwicht geeft:
 \begin{align}
 \circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
-&= -F_1 \cdot 3 - T - F_2 \cdot 9 + M_B  \\
-&= -50 \cdot 3 - 25 - 15 \cdot 9 + M_B  \\
-&=  -150 -25  - 135  + M_B\\
-&= -310 + M_B \\
-M_B &= 310  \text{ kNm} \circlearrowleft
+&= -F_{1;y} \cdot 12 - F_{1;x} \cdot 2  - 40 + F_2 \cdot 1 + M_B  \\
+&= -65 \cdot \dfrac{2}{\sqrt{5}} \cdot 12 - 65 \cdot \dfrac{1}{\sqrt{5}}\cdot 2  - 40 + 75 \cdot 1 + M_B  \\
+&= -65 \cdot \dfrac{2}{\sqrt{5}} \cdot 12 - 65 \cdot \dfrac{1}{\sqrt{5}}\cdot 2  - 40 + 75 \cdot 1 + M_B  \\
+&= -697.65 - 58.14-40+75+M_B \\
+&= -720.79 + M_B \\
+M_B &= 720.70  \text{ kNm} \circlearrowleft
 \end{align}
+
 
 ```
 ````
