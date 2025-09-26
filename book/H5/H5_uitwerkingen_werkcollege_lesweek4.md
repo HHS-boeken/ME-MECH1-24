@@ -105,11 +105,11 @@ B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
 Momentenevenwicht geeft:
 \begin{align}
 \circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
-&= M_A + T_1 + T_2 + F_{1;y} \cdot 9 + F_{1;x} \cdot 2 - F_{2} \cdot 4  \\
-&= M_A + 15 + 25 + 65 \cdot \sin(45) \cdot 9 + 65 \cdot \cos(45) \cdot 2 - 30 \cdot 4  \\
-&= M_A + 40 + 413.66 + 91.92 - 120 \\
-&= M_A + 425.58 \\
-M_A &= -425.58  \text{ kNm} = 425.58  \text{ kNm} \circlearrowright
+&= M_A + T_1 + T_2 + F_{1;y} \cdot 9 + F_{1;x} \cdot 2 - F_{2} \cdot 4 - B_y \cdot 11 \\
+&= M_A + 15 + 25 + 65 \cdot \sin(45) \cdot 9 + 65 \cdot \cos(45) \cdot 2 - 30 \cdot 4 - 45.96  \cdot 11 \\
+&= M_A + 40 + 413.66 + 91.92 - 120 - 505.56\\
+&= M_A - 79.98  \\
+M_A &= 79.98  \text{ kNm} \circlearrowleft
 \end{align}
 
 ```
