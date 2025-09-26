@@ -91,6 +91,6 @@ $T_{}$ = 25 kNm;
 
 _Gevraagd:_
 
-Bepaal de grootste verticale belasting $F$ [in kN] waarmee de balk belast kan worden.
+Bepaal de grootste verticale belasting $F$ [in kN] waarmee de balk belast kan worden. En geef de ondersteuningsreacties [in kN] in punt $A$.
 
 <hr style="border:1px solid #9EA700">

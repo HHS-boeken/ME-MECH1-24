@@ -173,3 +173,61 @@ M_B &= 720.70  \text{ kNm} \circlearrowleft
 ````
 
 <hr style="border:1px solid #9EA700">
+
+## Opgave 4
+
+````{admonition} Antwoord
+:class:  dropdown
+
+De grootste verticale belasting $F$ is:
+\begin{align*}
+F&= 51.25 \text{ kN} \uparrow
+\end{align*}
+
+De reactiekrachten in punt A zijn:
+\begin{align*}
+A_x &= -40 \text{ kN} = 40 \text{ kN} \leftarrow \\
+A_y &= 21.25 \text{ kN} \uparrow
+\end{align*}
+
+```{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+Stel de evenwichtsvergelijkingen op:
+
+Horizontale krachtenvevenwicht geeft:
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+&= A_x + B_x \\
+&= A_x + 50 \cdot \dfrac{4}{5}  \\
+&= A_x + 40 \\
+A_x &= -40 \text{ kN} = 40 \text{ kN} \leftarrow
+\end{align}
+
+Momentenevenwicht geeft:
+\begin{align}
+\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
+&= T_1 - F \cdot 4 + B_y \cdot 6  \\
+&= 25 - 4F + 50 \cdot \dfrac{4}{5} \cdot 6 \\
+&= 25 -4F + 180 \\
+&= 205 - 4F\\
+4F&= 205\\
+F&= 51.25 \text{ kN} \uparrow
+\end{align}
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= A_y - F + B_y \\
+&= A_y - 51.25 + 50 \cdot \dfrac{3}{5} \\
+&= A_y - 51.25 + 30 \\
+&= A_y - 21.25 \\
+A_y &= 21.25 \text{ kN} \uparrow
+\end{align}
+
+```
+````
+
+<hr style="border:1px solid #9EA700">
