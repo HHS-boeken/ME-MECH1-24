@@ -5,14 +5,14 @@
 ````{admonition} Antwoord
 :class:  dropdown
 
-De reactiekrachten in punt A zijn:
+De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= 37.5  \text{ kN} \rightarrow \\
 A_y &= 77.16 \text{ kN} \uparrow
 \end{align*}
 
 
-De reactiekrachten in punt B zijn:
+De oplegreacties in punt B zijn:
 \begin{align*}
 B_y&= -32.21 \text{ kN} = 32.21 \text{ kN} \downarrow \\
 \end{align*}
@@ -65,13 +65,13 @@ A_y &= 77.16 \text{ kN} \uparrow
 ````{admonition} Antwoord
 :class:  dropdown
 
-De reactiekrachten in punt A zijn:
+De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= -15.96 \text{ kN} = 15.96 \text{ kN}= \leftarrow \\
 M_A &= 79.98  \text{ kNm} \circlearrowleft
 \end{align*}
 
-De reactiekrachten in punt B zijn:
+De oplegreacties in punt B zijn:
 \begin{align*}
 B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
 \end{align*}
@@ -124,7 +124,7 @@ M_A &= 79.98  \text{ kNm} \circlearrowleft
 :class:  dropdown
 
 
-De reactiekrachten in punt B zijn:
+De oplegreacties in punt B zijn:
 \begin{align*}
 B_x &= -29.07 \text{ kN} = 29.07 \text{ kN} \leftarrow \\
 B_y &= 16.86 \text{ kN} \uparrow \\
@@ -184,7 +184,7 @@ De grootste verticale belasting $F$ is:
 F&= 51.25 \text{ kN} \uparrow
 \end{align*}
 
-De reactiekrachten in punt A zijn:
+De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= -40 \text{ kN} = 40 \text{ kN} \leftarrow \\
 A_y &= 21.25 \text{ kN} \uparrow
