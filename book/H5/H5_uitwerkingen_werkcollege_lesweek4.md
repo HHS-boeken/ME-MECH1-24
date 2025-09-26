@@ -68,7 +68,7 @@ A_y &= 77.16 \text{ kN} \uparrow
 De reactiekrachten in punt A zijn:
 \begin{align*}
 A_x &= -15.96 \text{ kN} = 15.96 \text{ kN}= \leftarrow \\
-M_A &= -425.58  \text{ kNm} = 425.58  \text{ kNm} \circlearrowright
+M_A &= 79.98  \text{ kNm} \circlearrowleft
 \end{align*}
 
 De reactiekrachten in punt B zijn:
