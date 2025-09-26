@@ -21,7 +21,7 @@ $F_{1}$ =  75 kN; $F_{2}$ =  20 kN; $T$ = 45 kNm;
 
 _Gevraagd:_
 
-Bepaal de reactiekrachten [in kN] in punt $A$ en $B$.
+Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
 
 <hr style="border:1px solid #9EA700">
 
@@ -44,7 +44,7 @@ $F_{1}$ =  65 kN; $F_{2}$ =  30 kN; $T_{1}$ = 15 kNm; $T_{2}$ = 25 kNm;
 
 _Gevraagd:_
 
-Bepaal de reactiekrachten [in kN] in punt $A$ en $B$.
+Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
 
 <hr style="border:1px solid #9EA700">
 
