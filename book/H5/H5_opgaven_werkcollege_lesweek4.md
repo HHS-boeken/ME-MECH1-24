@@ -74,7 +74,7 @@ Bepaal de ondersteuningsreacties [in kN] in punt $B$.
 
 ## Opgave 4
 
-Een balk $AB$ wordt belast door een koppelmoment en een verticale kracht $F$. De balk heeft in punt $A$ een roloplegging en wordt in punt $B$ opgehangen aan een touw $BC$. Touw $BC$ zal bezwijken wanneer de trekkracht erin hoger wordt dan 50 kN, zie {numref}`WC4.4`.
+Een balk $AB$ wordt belast door een koppelmoment en een verticale kracht $F_1$. De balk heeft in punt $A$ een roloplegging en wordt in punt $B$ opgehangen aan een touw $BC$. Touw $BC$ zal bezwijken wanneer de trekkracht erin hoger wordt dan 50 kN, zie {numref}`WC4.4`.
 
 ```{figure} ../figures/WC4.4.png
 ---
@@ -91,6 +91,6 @@ $T_{}$ = 25 kNm;
 
 _Gevraagd:_
 
-Bepaal de grootste verticale belasting $F$ [in kN] waarmee de balk belast kan worden. En geef de ondersteuningsreacties [in kN] in punt $A$.
+Bepaal de grootste verticale belasting $F_1$ [in kN] waarmee de balk belast kan worden. En geef de ondersteuningsreacties [in kN] in punt $A$.
 
 <hr style="border:1px solid #9EA700">
