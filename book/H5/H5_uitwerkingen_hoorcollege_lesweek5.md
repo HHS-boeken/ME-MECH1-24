@@ -13,7 +13,7 @@ A_y &\approx 71.39 \text{ kN} \uparrow \\
 
 De oplegreacties in punt B zijn:
 \begin{align*}
-B_x = 0 \text{ kN}\\
+B_x &= 0 \text{ kN}\\
 B_y &= \dfrac{-32.5}{-9} \approx 3.61 \text{ kN} \uparrow \\
 \end{align*}
 
@@ -74,7 +74,7 @@ A_y &\approx 71.39 \text{ kN} \uparrow \\
 
 De oplegreacties in punt A zijn:
 \begin{align*}
-A_x = 0 \text{ kN} \\
+A_x &= 0 \text{ kN} \\
 A_y &= 72.5 \text{ kN} \uparrow \\
 M_A &= 679.17  \text{ kNm} \circlearrowleft
 \end{align*}
