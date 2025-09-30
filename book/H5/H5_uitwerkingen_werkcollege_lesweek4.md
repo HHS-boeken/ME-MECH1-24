@@ -136,6 +136,15 @@ M_B &= 720.70  \text{ kNm} \circlearrowleft
 
 Maak een VLS:
 
+```{figure} ../figures/WC4.3vls.png
+---
+width: 70%
+name: WC4.3vls
+align: center
+---
+: Opgave 3
+```
+
 Stel de evenwichtsvergelijkingen op:
 
 Horizontale krachtenvevenwicht geeft:
