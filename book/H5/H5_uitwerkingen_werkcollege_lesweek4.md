@@ -22,6 +22,15 @@ B_y&= -32.21 \text{ kN} = 32.21 \text{ kN} \downarrow \\
 
 Maak een VLS:
 
+```{figure} ../figures/41vls.png
+---
+width: 70%
+name: 43vls
+align: center
+---
+: Opgave 3
+```
+
 Stel de evenwichtsvergelijkingen op:
 
 Horizontale krachtenvevenwicht geeft:
@@ -81,6 +90,15 @@ B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
 
 Maak een VLS:
 
+```{figure} ../figures/42vls.png
+---
+width: 70%
+name: 43vls
+align: center
+---
+: Opgave 3
+```
+
 Stel de evenwichtsvergelijkingen op:
 
 Horizontale krachtenvevenwicht geeft:
@@ -136,10 +154,10 @@ M_B &= 720.70  \text{ kNm} \circlearrowleft
 
 Maak een VLS:
 
-```{figure} ../figures/WC4.3vls.png
+```{figure} ../figures/43vls.png
 ---
 width: 70%
-name: WC4.3vls
+name: 43vls
 align: center
 ---
 : Opgave 3
@@ -203,6 +221,15 @@ A_y &= 21.25 \text{ kN} \uparrow
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/44vls.png
+---
+width: 70%
+name: 44vls
+align: center
+---
+: Opgave 4
+```
 
 Stel de evenwichtsvergelijkingen op:
 
