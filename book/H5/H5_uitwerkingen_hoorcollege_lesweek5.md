@@ -22,10 +22,10 @@ B_y &= \dfrac{-32.5}{-9} \approx 3.61 \text{ kN} \uparrow \\
 
 Maak een VLS:
 
-```{figure} ../figures/1vls.png
+```{figure} ../figures/HC5_1vls.png
 ---
 width: 70%
-name: 1vls
+name: HC5_1vls
 align: center
 ---
 : Voorbeeld Opgave 1 - VLS
@@ -85,10 +85,10 @@ M_A &= 679.17  \text{ kNm} \circlearrowleft
 
 Maak een VLS:
 
-```{figure} ../figures/2vls.png
+```{figure} ../figures/HC5_2vls.png
 ---
 width: 70%
-name: 2vls
+name: HC5_1vls
 align: center
 ---
 : Voorbeeld Opgave 2 - VLS
@@ -150,10 +150,10 @@ B_y &= -17.78 \text{ kN} = 17.78 \text{ kN} \downarrow
 
 Maak een VLS:
 
-```{figure} ../figures/3vls.png
+```{figure} ../figures/HC5_3vls.png
 ---
 width: 70%
-name: 3vls
+name: HC5_3vls
 align: center
 ---
 : Voorbeeld Opgave 3 - VLS
@@ -220,13 +220,13 @@ B_y &= -17.78 \text{ kN} = 17.78 \text{ kN} \downarrow
 
 Maak een VLS:
 
-```{figure} ../figures/3vls.png
+```{figure} ../figures/HC5_4vls.png
 ---
 width: 70%
-name: 3vls
+name: HC5_4vls
 align: center
 ---
-: Voorbeeld Opgave 3 - VLS
+: Voorbeeld Opgave 4 - VLS
 ```
 
 Stel de evenwichtsvergelijkingen op:
