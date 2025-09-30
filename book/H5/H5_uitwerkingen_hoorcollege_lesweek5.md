@@ -1,0 +1,192 @@
+# Uitwerkingen
+
+## Voorbeeld Opgave 1
+
+`````{admonition} Antwoord
+:class:  dropdown
+
+De oplegreacties in punt A zijn:
+\begin{align*}
+A_x &= 0 \text{ kN} \\
+A_y &= 49 \text{ kN} \uparrow
+\end{align*}
+
+
+De oplegreacties in punt B zijn:
+\begin{align*}
+B_y &= 31 \text{ kN} \uparrow
+\end{align*}
+
+````{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+```{figure} ../figures/1vls.png
+---
+width: 70%
+name: 1vls
+align: center
+---
+: Voorbeeld Opgave 1 - VLS
+```
+
+Stel de evenwichtsvergelijkingen op:
+
+Horizontale krachtenvevenwicht geeft:
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+&= B_x = 0 \text{ kN}
+\end{align}
+
+
+Momentenevenwicht geeft:
+\begin{align}
+\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
+&= q \cdot 3 \cdot 1.5 - F_1 \cdot 3 - T + B_y \cdot 9\\
+&= 15 \cdot 3 \cdot 1.5 - 30 \cdot 3 - 10 + B_y \cdot 9\\
+&= 67.5 - 90 - 10 + 9By \\
+-9By &= -32.5 \\
+By&= \dfrac{-32.5}{-9} \approx 3.61 \text{ kN} \uparrow \\
+\end{align}
+
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= -q \cdot 3 + A_y - F_1 + B_y \\
+&= -15 \cdot 3 + A_y - 30 + 3.61 \\
+&= -45 + A_y -30 + 3.61 \\
+&= A_y - 71.39 \\
+A_y &\approx 71.39 \text{ kN} \uparrow \\
+\end{align}
+
+
+````
+`````
+
+<hr style="border:1px solid #9EA700">
+
+## Voorbeeld Opgave 2
+
+`````{admonition} Antwoord
+:class:  dropdown
+
+De oplegreacties in punt A zijn:
+\begin{align*}
+A_x &= 35.36 \text{ kN}  \rightarrow \\
+A_y &= 4.64 \text{ kN} \uparrow \\
+M_A &= 42.51  \text{ kNm} \circlearrowleft
+\end{align*}
+
+
+````{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+```{figure} ../figures/2vls.png
+---
+width: 70%
+name: 2vls
+align: center
+---
+: Voorbeeld Opgave 2 - VLS
+```
+
+Stel de evenwichtsvergelijkingen op:
+
+Horizontale krachtenvevenwicht geeft:
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+&= A_x = 0 \text{ kN}
+\end{align}
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= A_y - \left( \dfrac{1}{2} \cdot q_1 \cdot 5 \right) - F_1  \\
+&= A_y - \left( \dfrac{1}{2} \cdot 5 \cdot 5 \right) - 60 \\
+&= A_y - 12.5 - 60  \\
+&= A_y - 72.5 \\
+A_y &= 72.5 \text{ kN} \uparrow
+\end{align}
+
+Momentenevenwicht geeft:
+\begin{align}
+\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
+&= M_A - R_{q_1} \cdot \left( 3+ \dfrac{2}{3} \cdot 5 \right)  - F_1 \cdot 10   \\
+&= M_A - 12.5 \cdot \left( 3+ \dfrac{2}{3} \cdot 5 \right)  - 60 \cdot 10   \\
+&= M_A - 79.17 - 600 \\
+&= M_A - 679.17 \\
+M_A &= 679.17  \text{ kNm} \circlearrowleft
+\end{align}
+
+````
+`````
+
+<hr style="border:1px solid #9EA700">
+
+
+## Voorbeeld Opgave 3
+
+`````{admonition} Antwoord
+:class:  dropdown
+
+De oplegreacties in punt A zijn:
+\begin{align*}
+A_y &= 65 \text{ kN} \uparrow
+\end{align*}
+
+
+De oplegreacties in punt B zijn:
+\begin{align*}
+B_x &= 0 \text{ kN} \\
+M_B &= 310 \text{ kNm} \circlearrowleft
+\end{align*}
+
+````{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+```{figure} ../figures/3vls.png
+---
+width: 70%
+name: 3vls
+align: center
+---
+: Voorbeeld Opgave 3 - VLS
+```
+
+Stel de evenwichtsvergelijkingen op:
+
+Horizontale krachtenvevenwicht geeft:
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+&= B_x = 0  \text{ kN}\\
+\end{align}
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= A_y -F_1 - F_2 \\
+&= A_y -50 - 15 \\
+&= A_y -65\\
+A_y &= 65 \text{ kN} \uparrow
+\end{align}
+
+Momentenevenwicht geeft:
+\begin{align}
+\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
+&= -F_1 \cdot 3 - T - F_2 \cdot 9 + M_B  \\
+&= -50 \cdot 3 - 25 - 15 \cdot 9 + M_B  \\
+&=  -150 -25  - 135  + M_B\\
+&= -310 + M_B \\
+M_B &= 310  \text{ kNm} \circlearrowleft
+\end{align}
+
+````
+`````
+
+<hr style="border:1px solid #9EA700">
