@@ -52,8 +52,6 @@ B_y &= 31 \text{ kN} \uparrow
 
 Maak een VLS:
 
-Maak een VLS:
-
 ```{figure} ../figures/1vls.png
 ---
 width: 70%
@@ -186,8 +184,6 @@ M_B &= 310 \text{ kNm} \circlearrowleft
 
 ````{admonition} Uitwerking
 :class:  dropdown
-
-Maak een VLS:
 
 Maak een VLS:
 
