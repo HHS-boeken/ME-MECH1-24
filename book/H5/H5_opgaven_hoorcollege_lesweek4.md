@@ -43,7 +43,7 @@ $F_{1}$ =  30 kN; $F_{2}$ =  50 kN;
 
 _Gevraagd:_
 
-Bepaal de reactiekrachten [in kN] in punt $A$ en $B$.
+Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
 
 <hr style="border:1px solid #9EA700">
 
@@ -91,6 +91,6 @@ $F_{1}$ =  50 kN; $F_{2}$ =  15 kN; $T$ = 25 kNm;
 
 _Gevraagd:_
 
-Bepaal de reactiekrachten in punt $A$ en $B$.
+Bepaal de oplegreacties in punt $A$ en $B$.
 
 <hr style="border:1px solid #9EA700">

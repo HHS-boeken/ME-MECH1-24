@@ -35,14 +35,14 @@ M_R &= 325.99 \text{ kNm} \circlearrowleft\\
 ````{admonition} Antwoord
 :class:  dropdown
 
-De reactiekrachten in punt A zijn:
+De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= 0 \text{ kN} \\
 A_y &= 49 \text{ kN} \uparrow
 \end{align*}
 
 
-De reactiekrachten in punt B zijn:
+De oplegreacties in punt B zijn:
 \begin{align*}
 B_y &= 31 \text{ kN} \uparrow
 \end{align*}
@@ -96,7 +96,7 @@ A_y &= 49 \text{ kN} \uparrow
 ````{admonition} Antwoord
 :class:  dropdown
 
-De reactiekrachten in punt A zijn:
+De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= 35.36 \text{ kN}  \rightarrow \\
 A_y &= 4.64 \text{ kN} \uparrow \\
@@ -152,13 +152,13 @@ M_A &= 42.51  \text{ kNm} \circlearrowleft
 ````{admonition} Antwoord
 :class:  dropdown
 
-De reactiekrachten in punt A zijn:
+De oplegreacties in punt A zijn:
 \begin{align*}
 A_y &= 65 \text{ kN} \uparrow
 \end{align*}
 
 
-De reactiekrachten in punt B zijn:
+De oplegreacties in punt B zijn:
 \begin{align*}
 B_x &= 0 \text{ kN} \\
 M_B &= 310 \text{ kNm} \circlearrowleft

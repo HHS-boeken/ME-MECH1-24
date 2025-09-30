@@ -44,6 +44,12 @@ parts:
       sections:
       - file: H4/H4_opgaven_werkcollege_lesweek3.md
       - file: H4/H4_uitwerkingen_werkcollege_lesweek3.md
+
+    - file: H5/H5_0_intro_werkcollege
+      sections:
+      - file: H5/H5_opgaven_werkcollege_lesweek4.md
+      #- file: H5/H5_uitwerkingen_werkcollege_lesweek4.md
+
   - caption: Diverse
     chapters:
     - file: references
