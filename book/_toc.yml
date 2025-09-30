@@ -29,6 +29,7 @@ parts:
       - file: H5/H5_uitwerkingen_hoorcollege_lesweek4.md
       
     - file: H5/H5_1_intro_hoorcollege
+      sections:
       - file: H5/H5_opgaven_hoorcollege_lesweek5.md
       - file: H5/H5_uitwerkingen_hoorcollege_lesweek5.md
   
