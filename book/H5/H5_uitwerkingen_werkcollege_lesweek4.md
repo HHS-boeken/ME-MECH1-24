@@ -2,7 +2,7 @@
 
 ## Opgave 1
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -17,7 +17,7 @@ De oplegreacties in punt B zijn:
 B_y&= -32.21 \text{ kN} = 32.21 \text{ kN} \downarrow \\
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
@@ -64,14 +64,14 @@ A_y &= 77.16 \text{ kN} \uparrow
 \end{align}
 
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 ## Opgave 2
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -85,7 +85,7 @@ De oplegreacties in punt B zijn:
 B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
@@ -130,15 +130,15 @@ Momentenevenwicht geeft:
 M_A &= 79.98  \text{ kNm} \circlearrowleft
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 
 ## Opgave 3
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 
@@ -149,7 +149,7 @@ B_y &= 16.86 \text{ kN} \uparrow \\
 M_B &= 720.70  \text{ kNm} \circlearrowleft
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
@@ -196,14 +196,14 @@ M_B &= 720.70  \text{ kNm} \circlearrowleft
 \end{align}
 
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 ## Opgave 4
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De grootste verticale belasting $F$ is:
@@ -217,7 +217,7 @@ A_x &= -40 \text{ kN} = 40 \text{ kN} \leftarrow \\
 A_y &= 21.25 \text{ kN} \uparrow
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
@@ -263,7 +263,7 @@ Verticale krachtenevenwicht geeft:
 A_y &= 21.25 \text{ kN} \uparrow
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
