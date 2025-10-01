@@ -1,5 +1,19 @@
 # Changelog
 
+## v2025.5.0 Update na Hoorcollege lesweek 5
+
+Toevoegen:
+- [Opgave werkcollege lesweek4](./H5/H5_opgaven_werkcollege_lesweek5.md)
+- [Uitwerkingen werkcollege lesweek4](./H5/H5_uitwerkingen_werkcollege_lesweek5.md)
+
+
+## v2025.4.0 Update na Werkcollege lesweek 4
+
+Toevoegen:
+- [Opgave werkcollege lesweek4](./H5/H5_opgaven_werkcollege_lesweek4.md)
+- [Uitwerkingen werkcollege lesweek4](./H5/H5_uitwerkingen_werkcollege_lesweek4.md)
+
+Bekijk de volledige lijst met wijzigingen
 ## v2025.3.0 Update na Hoorcollege lesweek 4
 
 Toevoegen:

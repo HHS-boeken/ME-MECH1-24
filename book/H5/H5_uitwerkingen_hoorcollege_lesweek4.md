@@ -32,7 +32,7 @@ M_R &= 325.99 \text{ kNm} \circlearrowleft\\
 
 ## Voorbeeld Opgave 1
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -47,10 +47,19 @@ De oplegreacties in punt B zijn:
 B_y &= 31 \text{ kN} \uparrow
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/1vls.png
+---
+width: 70%
+name: 1vls
+align: center
+---
+: Voorbeeld Opgave 1 - VLS
+```
 
 Stel de evenwichtsvergelijkingen op:
 
@@ -86,14 +95,14 @@ A_y &= 80 - 31 \\
 A_y &= 49 \text{ kN} \uparrow
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 ## Voorbeeld Opgave 2
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -104,10 +113,19 @@ M_A &= 42.51  \text{ kNm} \circlearrowleft
 \end{align*}
 
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/2vls.png
+---
+width: 70%
+name: 2vls
+align: center
+---
+: Voorbeeld Opgave 2 - VLS
+```
 
 Stel de evenwichtsvergelijkingen op:
 
@@ -141,15 +159,15 @@ Momentenevenwicht geeft:
 M_A &= 42.51  \text{ kNm} \circlearrowleft
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 
 ## Voorbeeld Opgave 3
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -164,10 +182,19 @@ B_x &= 0 \text{ kN} \\
 M_B &= 310 \text{ kNm} \circlearrowleft
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/3vls.png
+---
+width: 70%
+name: 3vls
+align: center
+---
+: Voorbeeld Opgave 3 - VLS
+```
 
 Stel de evenwichtsvergelijkingen op:
 
@@ -196,7 +223,7 @@ Momentenevenwicht geeft:
 M_B &= 310  \text{ kNm} \circlearrowleft
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">

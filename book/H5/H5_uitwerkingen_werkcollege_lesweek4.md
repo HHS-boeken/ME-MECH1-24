@@ -2,7 +2,7 @@
 
 ## Opgave 1
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -17,10 +17,19 @@ De oplegreacties in punt B zijn:
 B_y&= -32.21 \text{ kN} = 32.21 \text{ kN} \downarrow \\
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/41vls.png
+---
+width: 70%
+name: 43vls
+align: center
+---
+: Opgave 3
+```
 
 Stel de evenwichtsvergelijkingen op:
 
@@ -55,14 +64,14 @@ A_y &= 77.16 \text{ kN} \uparrow
 \end{align}
 
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 ## Opgave 2
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De oplegreacties in punt A zijn:
@@ -76,10 +85,19 @@ De oplegreacties in punt B zijn:
 B_y &= -45.96 \text{ kN} = 45.96 \text{ kN} \downarrow
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/42vls.png
+---
+width: 70%
+name: 43vls
+align: center
+---
+: Opgave 3
+```
 
 Stel de evenwichtsvergelijkingen op:
 
@@ -112,15 +130,15 @@ Momentenevenwicht geeft:
 M_A &= 79.98  \text{ kNm} \circlearrowleft
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 
 ## Opgave 3
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 
@@ -131,15 +149,15 @@ B_y &= 16.86 \text{ kN} \uparrow \\
 M_B &= 720.70  \text{ kNm} \circlearrowleft
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
 
-```{figure} ../figures/WC4.3vls.png
+```{figure} ../figures/43vls.png
 ---
 width: 70%
-name: WC4.3vls
+name: 43vls
 align: center
 ---
 : Opgave 3
@@ -178,14 +196,14 @@ M_B &= 720.70  \text{ kNm} \circlearrowleft
 \end{align}
 
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
 
 ## Opgave 4
 
-````{admonition} Antwoord
+`````{admonition} Antwoord
 :class:  dropdown
 
 De grootste verticale belasting $F$ is:
@@ -199,10 +217,19 @@ A_x &= -40 \text{ kN} = 40 \text{ kN} \leftarrow \\
 A_y &= 21.25 \text{ kN} \uparrow
 \end{align*}
 
-```{admonition} Uitwerking
+````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
+
+```{figure} ../figures/44vls.png
+---
+width: 70%
+name: 44vls
+align: center
+---
+: Opgave 4
+```
 
 Stel de evenwichtsvergelijkingen op:
 
@@ -236,7 +263,7 @@ Verticale krachtenevenwicht geeft:
 A_y &= 21.25 \text{ kN} \uparrow
 \end{align}
 
-```
 ````
+`````
 
 <hr style="border:1px solid #9EA700">
