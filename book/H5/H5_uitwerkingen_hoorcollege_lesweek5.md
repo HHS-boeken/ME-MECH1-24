@@ -136,7 +136,7 @@ M_A &= 679.17  \text{ kNm} \circlearrowleft
 De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= -77.78 \text{ kN} = 77.78 \text{ kN} \leftarrow \\
-M_A &= -277.44  \text{ kNm} = 277.44  \text{ kNm} \circlearrowright
+M_A &= -78.86  \text{ kNm} = 78.86  \text{ kNm} \circlearrowright
 \end{align*}
 
 
@@ -184,12 +184,12 @@ B_y &= -17.78 \text{ kN} = 17.78 \text{ kN} \downarrow
 Momentenevenwicht geeft:
 \begin{align}
 \circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
-&= M_A - R_{q_1} \cdot 4 - R_{q_2} \cdot (1 + \dfrac{2}{3} \cdot 6 ) + F_{1;y} \cdot 9 - F_{1;x} \cdot 2  \\
-&= M_A - R_{q_1} \cdot 4 - R_{q_2} \cdot (1 + \dfrac{2}{3} \cdot 6 ) + F_1 \cdot \sin(45) \cdot 9 - F_1 \cdot \cos(45) \cdot 2  \\
-&= M_A - 30 \cdot 4 - 30 \cdot (1 + \dfrac{2}{3} \cdot 6 ) + 110 \cdot \sin(45) \cdot 9 - 110 \cdot \cos(45) \cdot 2  \\
-&= M_A - 120 - 150 + 700 - 155.56  \\
-&= M_A + 274.44 \\
-M_A &= -277.44  \text{ kNm} = 277.44  \text{ kNm} \circlearrowright
+&= M_A - R_{q_1} \cdot 4 - R_{q_2} \cdot (1 + \dfrac{2}{3} \cdot 6 ) + F_{1;y} \cdot 9 - F_{1;x} \cdot 2 + B_y \cdot 11 \\
+&= M_A - R_{q_1} \cdot 4 - R_{q_2} \cdot (1 + \dfrac{2}{3} \cdot 6 ) + F_1 \cdot \sin(45) \cdot 9 - F_1 \cdot \cos(45) \cdot 2 + B_y \cdot 11  \\
+&= M_A - 30 \cdot 4 - 30 \cdot (1 + \dfrac{2}{3} \cdot 6 ) + 110 \cdot \sin(45) \cdot 9 - 110 \cdot \cos(45) \cdot 2 - 17.78 \cdot 11 \\
+&= M_A - 120 - 150 + 700 - 155.56  - 195.58\\
+&= M_A + 78.86\\
+M_A &= -78.86  \text{ kNm} = 78.86  \text{ kNm} \circlearrowright
 \end{align}
 
 ````
