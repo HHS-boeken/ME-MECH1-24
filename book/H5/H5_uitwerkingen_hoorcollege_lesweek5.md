@@ -258,7 +258,7 @@ Verticale krachtenevenwicht geeft:
 \uparrow_+  \Sigma{F_y} &= 0 \\
 &= A_y - R_{q_z} - B_y\\
 &= A_y - 24 - 53.83\\
-&= A_y - 77.83 \
+&= A_y - 77.83 \\
 A_y &= 77.83 \text{ kN} \uparrow
 \end{align}
 ````
