@@ -91,3 +91,26 @@ De stang met een verwaarloosbaar gewicht is bevestigd aan twee veren die elke ee
 Bepaal de hoek $\theta$ die de stang met de horizontaal maakt wanneer de kracht van 30 N op de stang wordt uitgeoefend, zie {numref}`WC6_1`.
 
 <hr style="border:1px solid #9EA700">
+
+## Opgave 5
+
+```{figure} ../figures/WC6_4.png
+---
+width: 70%
+name: WC6_4
+align: center
+---
+: Opgave 5
+```
+
+_Gegevens_
+
+$k_{1}$ =  75 kN/m; $F_{1}$ =  45 kN; $l'_{rust}$ =  1.2 m;
+
+_Gevraagd:_
+
+De kroonluchter van 45 kN is opgehangen aan twee veren met een rust lengte van 1.2 m en een stijfheid van $k = 75$ kN/m.
+
+Bepaal de hoek $\theta$ bij evenwicht, zie {numref}`WC6_1`.
+
+<hr style="border:1px solid #9EA700">
