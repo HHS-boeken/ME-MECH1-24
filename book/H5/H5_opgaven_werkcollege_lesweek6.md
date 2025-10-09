@@ -68,3 +68,26 @@ Bepaal de massa van elk van de twee cilinders als ze bij ophangen vanaf de ringe
 
 <hr style="border:1px solid #9EA700">
 
+
+## Opgave 4
+
+```{figure} ../figures/WC6_1.png
+---
+width: 70%
+name: WC6_1
+align: center
+---
+: Opgave 4
+```
+
+_Gegevens_
+
+$k_{1}$ =  100 N/m; $k_{2}$ =  100 N/m; $F_{1}$ =  30 N;
+
+_Gevraagd:_
+
+De stang met een verwaarloosbaar gewicht is bevestigd aan twee veren die elke een stijfheid $k = 100 $ N/m hebben.
+
+Bepaal de hoek $\theta$ die de stang met de horizontaal maakt wanneer de kracht van 30 N op de stang wordt uitgeoefend, zie {numref}`WC6_1`.
+
+<hr style="border:1px solid #9EA700">
