@@ -105,11 +105,11 @@ align: center
 
 _Gegevens_
 
-$k_{1}$ =  75 kN/m; $F_{1}$ =  45 kN; $l'_{rust}$ =  1.2 m;
+$k_{1}$ =  75 kN/m; $F_{1}$ =  45 N; $l'_{rust}$ =  1.2 m;
 
 _Gevraagd:_
 
-De kroonluchter van 45 kN is opgehangen aan twee veren met een rust lengte van 1.2 m en een stijfheid van $k = 75$ kN/m.
+De kroonluchter van 45 N is opgehangen aan twee veren met een rust lengte van 1.2 m en een stijfheid van $k = 75$ kN/m.
 
 Bepaal de hoek $\theta$ bij evenwicht, zie {numref}`WC6_1`.
 
