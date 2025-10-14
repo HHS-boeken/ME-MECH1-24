@@ -1,6 +1,6 @@
 # Uitwerkingen
 
-## Voorbeeld Opgave 1
+## Opgave 1
 
 `````{admonition} Antwoord
 :class:  dropdown
@@ -66,7 +66,7 @@ M_A &= 155 \text{ kNm} \circlearrowleft
 
 <hr style="border:1px solid #9EA700">
 
-## Voorbeeld Opgave 2
+## Opgave 2
 
 `````{admonition} Antwoord
 :class:  dropdown
@@ -131,7 +131,7 @@ A_y &\approx 21.66 \text{ kN} \uparrow
 <hr style="border:1px solid #9EA700">
 
 
-## Voorbeeld Opgave 3
+## Opgave 3
 
 `````{admonition} Antwoord
 :class:  dropdown
