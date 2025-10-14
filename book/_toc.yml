@@ -73,6 +73,7 @@ parts:
   - caption: Voorbeeldtoets
     chapters:
     - file: voorbeeldtoets
+    - file: voorbeeldtoets_uitwerkingen
 
   - caption: Diverse
     chapters:
