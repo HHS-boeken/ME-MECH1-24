@@ -27,3 +27,27 @@ c) Bepaal de reacties [in kN] in punt $A$ en $B$. (6pt)
 
 <hr style="border:1px solid #9EA700">
 
+## Opgave 2
+
+Een vereenvoudigde constructie wordt belast met twee puntlasten $F_1 = 60 \text{ kN}$ en $F_2 = 50 \text{ kN}$ en een koppelmoment $T = 20 \text{ kNm}$, zie figuur.
+
+```{figure} figures/w4.3.png
+---
+width: 70%
+name: w4.3
+align: center
+---
+: Opgave 3
+```
+
+_Gegevens_
+
+$F_{1}$ =  60 kN; $F_{2}$ =  50 kN; $T_{}$ = 20 kNm;
+
+_Gevraagd:_
+
+a) Vervang de belasting op de constructie door een equivalente kracht. (6pt)
+
+b) Geef aan waar de werklijn van deze kracht de constructie snijdt, gemeten vanaf $A$. (2pt)
+
+<hr style="border:1px solid #9EA700">
