@@ -48,6 +48,6 @@ _Gevraagd:_
 
 a) Vervang de belasting op de constructie door een equivalente kracht. (6pt)
 
-b) Geef aan waar de werklijn van deze kracht de constructie snijdt, gemeten vanaf $A$. (2pt)
+b) Geef aan waar de werklijn van deze kracht de constructie snijdt, gemeten vanaf $A$. (3pt)
 
 <hr style="border:1px solid #9EA700">
