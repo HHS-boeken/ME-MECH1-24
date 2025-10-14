@@ -58,11 +58,11 @@ parts:
     - file: H5/H5_1_intro_werkcollege
       sections:
       - file: H5/H5_opgaven_werkcollege_lesweek5.md
-      #- file: H5/H5_uitwerkingen_werkcollege_lesweek4.md
+      - file: H5/H5_uitwerkingen_werkcollege_lesweek5.md
 
-    - file: H5/H5_2_intro_werkcollege
-      sections:
-      - file: H5/H5_opgaven_werkcollege_lesweek6.md
+    #- file: H5/H5_2_intro_werkcollege
+    #  sections:
+    #  - file: H5/H5_opgaven_werkcollege_lesweek6.md
       #- file: H5/H5_uitwerkingen_werkcollege_lesweek4.md
 
   - caption: Diverse
