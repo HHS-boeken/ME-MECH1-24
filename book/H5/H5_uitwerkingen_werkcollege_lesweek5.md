@@ -121,7 +121,7 @@ Verticale krachtenevenwicht geeft:
 &= A_y - \left( \dfrac{1}{2} \cdot 5 \cdot 6 \right) -  \left( 7 \cdot 10 \right) + 63.33 \\
 &= A_y - 85 + 63.33  \\
 &= A_y - 21.66 \\
-A_y &= 21.66 \text{ kN} \uparrow
+A_y &\approx 21.66 \text{ kN} \uparrow
 \end{align}
 
 
@@ -139,13 +139,13 @@ A_y &= 21.66 \text{ kN} \uparrow
 De oplegreacties in punt A zijn:
 \begin{align*}
 A_x &= 100 \text{ kN} \rightarrow \\
-M_A &= -78.86  \text{ kNm} = 78.86  \text{ kNm} \circlearrowright
+A_y &= 44.6 \text{ kN} \uparrow
 \end{align*}
 
 
 De oplegreacties in punt B zijn:
 \begin{align*}
-B_y &= -17.78 \text{ kN} = 17.78 \text{ kN} \downarrow
+B_y &= -25.1 \text{ kN} = 25.1  \text{ kNm} \downarrow
 \end{align*}
 
 ````{admonition} Uitwerking
