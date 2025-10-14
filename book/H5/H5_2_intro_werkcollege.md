@@ -1,3 +1,3 @@
-# H5 - Evenwicht van een star lichaam (Veren) 
+# H5 - Evenwicht van een star lichaam (Deel 3 - Veren) 
 
 

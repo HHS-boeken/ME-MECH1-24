@@ -1,5 +1,27 @@
 # Opgaven
 
+## Terugblik Opgave 1
+
+Balk $AB$ wordt belast met een trapeziumvormige verdeelde belasting $q_1 = 17.5 \text{ kN}$ en $q_2 = 7.5 \text{ kN}$ en een koppelmoment $T_1 = 25 \text{ kNm}$, zie {numref}`HC6_0`.
+
+```{figure} ../figures/HC6_0.png
+---
+width: 70%
+name: HC6_0
+align: center
+---
+:Terugblik opgave 1
+```
+
+_Gegevens:_
+
+$F_{1}$ =  35 kN; $F_{2}$ =  55 kN; $T$ = 70 kNm;
+
+_Gevraagd:_
+
+Bepaal de oplegreacties in punt $A$ en $B$.
+
+
 ## Voorbeeld Opgave 1
 
 Balk $ABC$ wordt belast door een puntlasten $F_1 = 65 \text{ kN}$, een koppelmoment $T_1 = 15 \text{ kNm}$ en een lineair verdeelde belasting $q_1 = 8.5 \text{ kN/m} $, zie {numref}`HC6_1`.
@@ -19,8 +41,8 @@ $F_{1}$ =  65 kN; $T_1$ = 15 kNm; $q_1$ = 8.5 kN/m
 
 _Gevraagd:_
 
-a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
-b) Bereken de indrukking [in mm] van de veer in punt $B$.
+a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$.\\
+b) Bereken de indrukking [in mm] van de veer in punt $B$. \\
 c) Bereken de verplaatsing [in mm] in punt $C$.
 
 <hr style="border:1px solid #9EA700">
@@ -44,8 +66,8 @@ $F_{1}$ =  60 kN; $q_{1}$ =  5 kN/m;
 
 _Gevraagd:_
 
-a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
-b) Bereken de verplaatsing [in mm] van de veer in punt $A$ en punt $B$.
+a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$. \\
+b) Bereken de verplaatsing [in mm] van de veer in punt $A$ en punt $B$. \\
 c) Bereken de verplaatsing [in mm] in punt $C$.
 
 <hr style="border:1px solid #9EA700">
