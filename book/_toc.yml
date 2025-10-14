@@ -69,6 +69,10 @@ parts:
       sections:
       - file: H5/H5_opgaven_werkcollege_lesweek6.md
       #- file: H5/H5_uitwerkingen_werkcollege_lesweek4.md
+ 
+  - caption: Voorbeeldtoets
+    chapters:
+    - file: voorbeeldtoets
 
   - caption: Diverse
     chapters:
