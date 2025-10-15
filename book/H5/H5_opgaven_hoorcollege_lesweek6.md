@@ -41,8 +41,10 @@ $F_{1}$ =  65 kN; $T_1$ = 15 kNm; $q_1$ = 8.5 kN/m
 
 _Gevraagd:_
 
-a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$.\\
-b) Bereken de indrukking [in mm] van de veer in punt $B$. \\
+a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
+
+b) Bereken de indrukking [in mm] van de veer in punt $B$.
+
 c) Bereken de verplaatsing [in mm] in punt $C$.
 
 <hr style="border:1px solid #9EA700">
@@ -66,8 +68,10 @@ $F_{1}$ =  60 kN; $q_{1}$ =  5 kN/m;
 
 _Gevraagd:_
 
-a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$. \\
-b) Bereken de verplaatsing [in mm] van de veer in punt $A$ en punt $B$. \\
+a) Bepaal de oplegreacties [in kN] in punt $A$ en $B$.
+
+b) Bereken de verplaatsing [in mm] van de veer in punt $A$ en punt $B$.
+
 c) Bereken de verplaatsing [in mm] in punt $C$.
 
 <hr style="border:1px solid #9EA700">
