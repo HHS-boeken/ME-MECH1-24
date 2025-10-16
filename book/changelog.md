@@ -1,5 +1,13 @@
 # Changelog
 
+## v2025.7.0 Update na Hoorcollege lesweek 6
+
+Toevoegen:
+
+- [Opgave hoorcollege lesweek6](./H5/H5_opgaven_hoorcollege_lesweek6.md)
+
+- [Uitwerkingen hoorcollege lesweek6](./H5/H5_uitwerkingen_hoorcollege_lesweek6.md)
+
 ## v2025.6.0 Update na Werkcollege lesweek 5
 
 Toevoegen:
