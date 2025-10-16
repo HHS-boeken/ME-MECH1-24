@@ -1,5 +1,71 @@
 # Uitwerkingen
 
+## Terugblik Opgave 1
+
+`````{admonition} Antwoord
+:class:  dropdown
+
+De oplegreacties in punt A zijn:
+\begin{align*}
+A_x &= 0 \text{ kN} \\
+A_y &\approx 23 \text{ kN} \uparrow \\
+
+De oplegreacties in punt B zijn:
+B_y &\approx 52 \text{ kN} \uparrow
+\end{align*}
+
+
+````{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+```{figure} ../figures/HC6_0vls.png
+---
+width: 70%
+name: HC6_0vls
+align: center
+---
+: Voorbeeld Opgave 2 - VLS
+```
+
+Stel de evenwichtsvergelijkingen op:
+
+Horizontale krachtenvevenwicht geeft:
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+&= A_x = 0 \text{ kN}
+\end{align}
+
+Momentenevenwicht geeft:
+\begin{align}
+\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
+&= - R_{q_1} \cdot \left( \dfrac{1}{3} \cdot 6 \right)  - R_{q_2} \cdot (4+3) + B_y \cdot 10 - T_1     \\
+&= - \left( \dfrac{1}{2} \cdot 10 \cdot 6 \right) \cdot \left( \dfrac{1}{3} \cdot 6 \right)  - \left( 7.5 \cdot 6 \right) \cdot 7 + B_y \cdot 10 - 25     \\
+&= -180 - 315 + 10B_y - 25      \\
+&= -520 + 10B_y      \\
+-10B_y &= -520 \\
+B_y &= \dfrac{-520}{-10} \\
+B_y &\approx 52 \text{ kN} \uparrow
+\end{align}
+
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= A_y - R_{q_1} - R_{q_2} + B_y  \\
+&= A_y - \left( \dfrac{1}{2} \cdot 10 \cdot 6 \right) -  \left( 7.5 \cdot 6 \right) + 52 \\
+&= A_y - 30 - 45 + 52  \\
+&= A_y - 23 \\
+A_y &\approx 23 \text{ kN} \uparrow
+\end{align}
+
+
+````
+`````
+
+<hr style="border:1px solid #9EA700">
+
 ## Voorbeeld Opgave 1
 
 `````{admonition} Antwoord
@@ -24,10 +90,10 @@ a)
 
 Maak een VLS:
 
-```{figure} ../figures/HC5_1vls.png
+```{figure} ../figures/HC6_1vls.png
 ---
 width: 70%
-name: HC5_1vls
+name: HC6_1vls
 align: center
 ---
 : Voorbeeld Opgave 1 - VLS
@@ -110,10 +176,10 @@ M_A &= 679.17  \text{ kNm} \circlearrowleft
 
 Maak een VLS:
 
-```{figure} ../figures/HC5_2vls.png
+```{figure} ../figures/HC6_2vls.png
 ---
 width: 70%
-name: HC5_1vls
+name: HC6_1vls
 align: center
 ---
 : Voorbeeld Opgave 2 - VLS
