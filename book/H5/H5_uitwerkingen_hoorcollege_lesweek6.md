@@ -78,28 +78,28 @@ a)
 
 De oplegreacties in punt A zijn:
 \begin{align*}
-    A_x = 0 \text{ kN}
+    A_x = 0 \text{ kN} \\
     A_y &\approx 32.17 \text{ kN} \uparrow \\
 \end{align*}
 
 
 De oplegreacties in punt B zijn:
 \begin{align*}
-    B_y &= \dfrac{-540.83}{-10} \approx 54.083 \text{ kN} \uparrow \\
+    B_y &\approx 54.08 \text{ kN} \uparrow \\
 \end{align*}
 
 b)
 
 De indrukking van de veer is;
 \begin{align}
-    &\approx 0.0832  \text{ m} = 83.2  \text{ mm}
+    \delta_b &\approx 0.0832  \text{ m} = 83.2  \text{ mm}
 \end{align}
 
 c) 
 
 De verplaatsing in punt $C$ is;
 \begin{align}
-    &\approx 0.116 \text{ m} = 116.48 \text{ mm} 
+    \delta_c &\approx 0.116 \text{ m} = 116.48 \text{ mm} 
 \end{align}
 
 ````{admonition} Uitwerking
@@ -198,19 +198,19 @@ b)
 
 Bereken de verplaatsing van de veer in punt $A$ is;
 \begin{align}
-    &\approx 0.341  \text{ m}
+    \delta_a &\approx 0.341  \text{ m}
 \end{align}
 
 Bereken de verplaatsing van de veer in punt $B$ is;
 \begin{align}
-    &\approx 0.096  \text{ m}
+   \delta_b &\approx 0.096  \text{ m}
 \end{align}
 
 c)
 
 De verplaatsing in punt $C$ is;
 \begin{align}
-    &\approx 0.06 \text{ m}
+   \delta_c &\approx 0.06 \text{ m}
 \end{align}
 
 ````{admonition} Uitwerking
@@ -304,65 +304,72 @@ Dus in punt $C$ op $x=14$ geldt;
 `````{admonition} Antwoord
 :class:  dropdown
 
-De oplegreacties in punt A zijn:
-\begin{align*}
-A_x &= -77.78 \text{ kN} = 77.78 \text{ kN} \leftarrow \\
-M_A &= -78.86  \text{ kNm} = 78.86  \text{ kNm} \circlearrowright
-\end{align*}
+De stijfheid, $k$, van de veer is;
+\begin{align}
+    k &= 175.34 \text{ N/m} 
+\end{align}
 
-
-De oplegreacties in punt B zijn:
-\begin{align*}
-B_y &= -17.78 \text{ kN} = 17.78 \text{ kN} \downarrow
-\end{align*}
 
 ````{admonition} Uitwerking
 :class:  dropdown
 
 Maak een VLS:
 
-```{figure} ../figures/HC5_3vls.png
----
-width: 70%
-name: HC5_3vls
-align: center
----
-: Voorbeeld Opgave 3 - VLS
-```
+
 
 Stel de evenwichtsvergelijkingen op:
 
 Horizontale krachtenvevenwicht geeft:
 \begin{align}
 \rightarrow_+ \Sigma{F_x} &= 0 \\
-&= A_x + F_{1;x} \\
-&= A_x + 110 \cdot \cos(45) \\
-&= A_x + 77.78 \\
-A_x &= -77.78 \text{ kN} = 77.78 \text{ kN} \leftarrow
+&= - T_{CD} \cdot \dfrac{1}{\sqrt{2}} + T_{BD} \cdot \dfrac{3}{\sqrt{13}} \\
+T_{CD} \cdot \dfrac{1}{\sqrt{2}} &=  T_{BD} \cdot \dfrac{3}{\sqrt{13}}
 \end{align}
 
 Verticale krachtenevenwicht geeft:
 \begin{align}
 \uparrow_+  \Sigma{F_y} &= 0 \\
-&= - (q_1 \cdot 5) - \left( \dfrac{1}{2} \cdot q_2 \cdot 5 \right) + F_{1;y} + B_y\\
-&= - (q_1 \cdot 5) - \left( \dfrac{1}{2} \cdot q_2 \cdot 5 \right) + F \cdot \sin(45) + B_y\\
-&= - (5 \cdot 6) - \left( \dfrac{1}{2} \cdot 10 \cdot 6 \right) + 110 \cdot \sin(45) + B_y\\
-&= -30 - 30 + 77.78 + By \\
-&= 17.78  + B_y \\
-B_y &= -17.78 \text{ kN} = 17.78 \text{ kN} \downarrow
+&= T_{CD} \cdot \dfrac{1}{\sqrt{2}} + T_{BD} \cdot \dfrac{2}{\sqrt{13}} - 40 \cdot 9.81 \\
 \end{align}
 
-Momentenevenwicht geeft:
+$T_{CD}$ invullen geeft;
 \begin{align}
-\circlearrowleft_+ \Sigma{M_{|A}}  &= 0 \\
-&= M_A - R_{q_1} \cdot 4 - R_{q_2} \cdot (1 + \dfrac{2}{3} \cdot 6 ) + F_{1;y} \cdot 9 - F_{1;x} \cdot 2 + B_y \cdot 11 \\
-&= M_A - R_{q_1} \cdot 4 - R_{q_2} \cdot (1 + \dfrac{2}{3} \cdot 6 ) + F_1 \cdot \sin(45) \cdot 9 - F_1 \cdot \cos(45) \cdot 2 + B_y \cdot 11  \\
-&= M_A - 30 \cdot 4 - 30 \cdot (1 + \dfrac{2}{3} \cdot 6 ) + 110 \cdot \sin(45) \cdot 9 - 110 \cdot \cos(45) \cdot 2 - 17.78 \cdot 11 \\
-&= M_A - 120 - 150 + 700 - 155.56  - 195.58\\
-&= M_A + 78.86\\
-M_A &= -78.86  \text{ kNm} = 78.86  \text{ kNm} \circlearrowright
+\uparrow_+  \Sigma{F_y} &= 0 \\
+&= T_{CD} \cdot \dfrac{1}{\sqrt{2}} + T_{BD} \cdot \dfrac{2}{\sqrt{13}} - 40 \cdot 9.81 \\
+&= T_{BD} \cdot \dfrac{3}{\sqrt{13}} + T_{BD} \cdot \dfrac{2}{\sqrt{13}} - 392.4 \\
+&= T_{BD} \left( \dfrac{3}{\sqrt{13}} + \dfrac{2}{\sqrt{13}} \right) - 392.4 \\
+&= 1.39T_{BD} - 392.4 \\
+T_{BD} &\approx \dfrac{392.4}{1.39} \\
+T_{BD} &\approx 282.30 \text{ N}
 \end{align}
 
+$T_{BD}$ invullen geeft;
+\begin{align}
+\rightarrow_+ \Sigma{F_x} &= 0 \\
+T_{CD} \cdot \dfrac{1}{\sqrt{2}} &=  T_{BD} \cdot \dfrac{3}{\sqrt{13}} \\
+T_{CD} \cdot \dfrac{1}{\sqrt{2}} &=  282.30 \cdot \dfrac{3}{\sqrt{13}} \\
+T_{CD}  &=  332.18 \text{ N}
+\end{align}
+
+De uitgerekte lengte van de veer is;
+\begin{align}
+    l &= \sqrt{3^2 + 2^2} \\
+    l &= \sqrt{13}
+\end{align}
+
+De verlenging, $x$ van de veer is;
+\begin{align}
+    x &= \sqrt{13} -2 \\
+    x &\approx 1.61 \text{ m}
+\end{align}
+
+De stijfheid, $k$, van de veer is;
+\begin{align}
+    F &= k \cdot x \\
+    k &= \dfrac{F}{x} \\
+    &= \dfrac{282.30}{1.61} \\
+    &= 175.34 \text{ N/m} 
+\end{align}
 ````
 `````
 
