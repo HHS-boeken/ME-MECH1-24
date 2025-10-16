@@ -182,13 +182,36 @@ Gebruik verhoudigen van driehoeken;
 `````{admonition} Antwoord
 :class:  dropdown
 
-De oplegreacties in punt A zijn:
+a)
+
+De oplegreacties in punt $A$ zijn:
 \begin{align*}
-A_x &= 0 \text{ kN} \\
-A_y &= 72.5 \text{ kN} \uparrow \\
-M_A &= 679.17  \text{ kNm} \circlearrowleft
+    A_y &\approx 51.17 \text{ kN} \uparrow
 \end{align*}
 
+De oplegreacties in punt $B$ zijn:
+\begin{align*}
+    B_y &\approx 52.83 \text{ kN} \uparrow
+\end{align*}
+
+b)
+
+Bereken de verplaatsing van de veer in punt $A$ is;
+\begin{align}
+    &\approx 0.341  \text{ m}
+\end{align}
+
+Bereken de verplaatsing van de veer in punt $B$ is;
+\begin{align}
+    &\approx 0.096  \text{ m}
+\end{align}
+
+c)
+
+De verplaatsing in punt $C$ is;
+\begin{align}
+    &\approx 0.06 \text{ m}
+\end{align}
 
 ````{admonition} Uitwerking
 :class:  dropdown
@@ -221,7 +244,7 @@ Momentenevenwicht geeft:
 &= -623 + 12B_y \\
 -12B_y &= -623 \\
 B_y &= \dfrac{-623}{-12} \\
-B_y &= 52.83 \text{ kN} \uparrow 
+B_y &\approx 52.83 \text{ kN} \uparrow 
 \end{align}
 
 Verticale krachtenevenwicht geeft:
@@ -230,7 +253,7 @@ Verticale krachtenevenwicht geeft:
 &= A_y -  (13\cdot 8) + B_y   \\
 &= A_y - 104 + 52.83\\
 &= A_y - 51.17  \\
-A_y &= 51.17 \text{ kN} \uparrow
+A_y &\approx 51.17 \text{ kN} \uparrow
 \end{align}
 
 b)
