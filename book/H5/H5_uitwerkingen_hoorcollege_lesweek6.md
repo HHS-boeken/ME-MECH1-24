@@ -5,13 +5,16 @@
 `````{admonition} Antwoord
 :class:  dropdown
 
-De oplegreacties in punt A zijn:
+De oplegreacties in punt $A$ zijn:
 \begin{align*}
-A_x &= 0 \text{ kN} \\
-A_y &\approx 23 \text{ kN} \uparrow \\
+    A_x &= 0 \text{ kN} \\
+    A_y &= 23 \text{ kN} \uparrow \\
+\end{align*}
 
-De oplegreacties in punt B zijn:
-B_y &\approx 52 \text{ kN} \uparrow
+
+De oplegreacties in punt $B$ zijn:
+\begin{align*}  
+    B_y &= 52 \text{ kN} \uparrow
 \end{align*}
 
 
@@ -46,7 +49,7 @@ Momentenevenwicht geeft:
 &= -520 + 10B_y      \\
 -10B_y &= -520 \\
 B_y &= \dfrac{-520}{-10} \\
-B_y &\approx 52 \text{ kN} \uparrow
+B_y &= \text{ kN} \uparrow
 \end{align}
 
 
@@ -57,7 +60,7 @@ Verticale krachtenevenwicht geeft:
 &= A_y - \left( \dfrac{1}{2} \cdot 10 \cdot 6 \right) -  \left( 7.5 \cdot 6 \right) + 52 \\
 &= A_y - 30 - 45 + 52  \\
 &= A_y - 23 \\
-A_y &\approx 23 \text{ kN} \uparrow
+A_y &= 23 \text{ kN} \uparrow
 \end{align}
 
 
