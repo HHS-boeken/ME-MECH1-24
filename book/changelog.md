@@ -8,6 +8,9 @@ Toevoegen:
 
 - [Uitwerkingen hoorcollege lesweek6](./H5/H5_uitwerkingen_hoorcollege_lesweek6.md)
 
+- [Opgave werkcollege lesweek6](./H5/H5_opgaven_werkcollege_lesweek6.md)
+
+
 ## v2025.6.0 Update na Werkcollege lesweek 5
 
 Toevoegen:
