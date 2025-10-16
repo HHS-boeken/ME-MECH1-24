@@ -74,17 +74,33 @@ A_y &= 23 \text{ kN} \uparrow
 `````{admonition} Antwoord
 :class:  dropdown
 
+a)
+
 De oplegreacties in punt A zijn:
 \begin{align*}
-A_y &\approx 71.39 \text{ kN} \uparrow \\
+    A_x = 0 \text{ kN}
+    A_y &\approx 32.17 \text{ kN} \uparrow \\
 \end{align*}
 
 
 De oplegreacties in punt B zijn:
 \begin{align*}
-B_x &= 0 \text{ kN}\\
-B_y &= \dfrac{-32.5}{-9} \approx 3.61 \text{ kN} \uparrow \\
+    B_y &= \dfrac{-540.83}{-10} \approx 54.083 \text{ kN} \uparrow \\
 \end{align*}
+
+b)
+
+De indrukking van de veer is;
+\begin{align}
+    &\approx 0.0832  \text{ m} = 83.2  \text{ mm}
+\end{align}
+
+c) 
+
+De verplaatsing in punt $C$ is;
+\begin{align}
+    &\approx 0.116 \text{ m} = 116.48 \text{ mm} 
+\end{align}
 
 ````{admonition} Uitwerking
 :class:  dropdown
