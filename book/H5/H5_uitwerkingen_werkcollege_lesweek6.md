@@ -98,9 +98,9 @@ Uit de geometrie van driehoeken volgt $k$:
 `````{admonition} Antwoord
 :class:  dropdown
 
-De stijfheid $k$ van elke veer is:
+De lengte van touw $BC$ is:
 \begin{align*}
-    k &= 115.9 \text{ N/m}
+    l_{BC} &= 1.32  \text{ m}
 \end{align*}
 
 
@@ -168,6 +168,79 @@ De horizontale afstand van $A$ naar $C$ is:
     1.147 &= l_{BC} \cdot \cos(30) \\
     l_{BC} &= \dfrac{1.147}{\cos(30)} \\
     l_{BC} &= 1.32  \text{ m}
+\end{align}
+
+
+
+````
+`````
+
+<hr style="border:1px solid #9EA700">
+
+
+## Opgave 3
+
+`````{admonition} Antwoord
+:class:  dropdown
+
+De massa $M$ van elke cilinder is:
+\begin{align*}
+    M &= 2.37  \text{ kg}
+\end{align*}
+
+
+````{admonition} Uitwerking
+:class:  dropdown
+
+Maak een VLS:
+
+<!-- ```{figure} ../figures/WC5_1vls.png
+---
+width: 70%
+name: WC5_1vls
+align: center
+---
+: Voorbeeld Opgave 1 - VLS
+``` -->
+
+Vanwege symmetrie alleen het linkerdeel bekijken.
+
+Als veer $AC$ niet vervormd heeft deze een lengte, $l'_{AC}$, van:
+\begin{align}
+    l'_{AC} &= \sqrt{2^2 + 1.5^2} \\
+    &= 2.5 \text{ m}
+\end{align}
+
+In vervormde toetstand heeft veer $AC$ een lengte, $l_{AC}$, van:
+\begin{align}
+    l_{AC} &= \sqrt{2^2 + 2^2} \\
+    &= 2.828 \text{ m}
+\end{align}
+
+Dus de uitrekking van veer $AC$, $x_{AC}$ is:
+\begin{align}
+    l_{AC} &= l'_{AC} + x_{AC}  \\
+    x_{AC} &= l_{AC} - l'_{AC}  \\
+    &= 2.828 - 2.5 \\
+    &= 0.328 \text{ m}
+\end{align}
+
+De kracht in veer $AC$, F_{veer;AC} is:
+\begin{align}
+    F_{veer;AC} &= k \cdot x_{AC} \\
+    &= 100 \cdot 0.328 \\
+    &= 32.84 \text{ N}
+\end{align}
+
+Verticale krachtenevenwicht geeft:
+\begin{align}
+    \uparrow_+  \Sigma{F_y} &= 0 \\
+    &= F_{veer;AC} \cdot \sin(45) - M \cdot 9.81 \\
+    &= 32.84 \cdot \sin(45) - M \cdot 9.81 \\
+    &= 23.22 - 9.81M \\
+    9.81M &= 23.22 \\
+    M &= \dfrac{23.22}{9.81} \\
+    M &= 2.37  \text{ kg}
 \end{align}
 
 
