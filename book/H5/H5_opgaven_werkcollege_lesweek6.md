@@ -64,7 +64,7 @@ $k_{}$ =  100 N/m;
 
 _Gevraagd:_
 
-Bepaal de massa van elk van de twee cilinders als ze bij ophangen vanaf de ringen in $A$ en $B$ een doorhanging van 0.5 m veroorzaken. Merk op dat biij verwijderiing van de ciliniders geldt dat s = 0, zie {numref}`WC6_3`.
+Bepaal de massa van elk van de twee cilinders als ze bij ophangen vanaf de ringen in $A$ en $B$ een doorhanging van 0.5 m veroorzaken. Merk op dat bij verwijdering van de cilinders geldt dat s = 0, zie {numref}`WC6_3`.
 
 <hr style="border:1px solid #9EA700">
 
