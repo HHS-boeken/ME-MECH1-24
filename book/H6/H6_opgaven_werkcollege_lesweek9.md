@@ -42,7 +42,7 @@ $F_{1}$ =  30 kN;
 
 _Gevraagd:_
 
-Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_0`. Geef aan of het om trek- of drukkrachten gaat.
+Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_2`. Geef aan of het om trek- of drukkrachten gaat.
 
 <hr style="border:1px solid #9EA700">
 
@@ -64,7 +64,7 @@ $F_{1}$ =  1.2 kN; $F_{2}$ =  2.4 kN; $F_{3}$ =  2.4 kN; $F_{4}$ =  1.2 kN;
 
 _Gevraagd:_
 
-Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_0`. Geef aan of het om trek- of drukkrachten gaat.
+Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_3`. Geef aan of het om trek- of drukkrachten gaat.
 
 <hr style="border:1px solid #9EA700">
 
