@@ -19,7 +19,7 @@ $F_{1}$ =  5 kN; $F_{2}$ =  20 kN; $F_{3}$ =  5 kN; $F_{4}$ =  12 kN;
 
 _Gevraagd:_
 
-Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_1`. Geef aan of het om trek- of drukkrachten gaaat.
+Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_1`. Geef aan of het om trek- of drukkrachten gaat.
 
 <hr style="border:1px solid #9EA700">
 
@@ -42,17 +42,17 @@ $F_{1}$ =  30 kN;
 
 _Gevraagd:_
 
-Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_0`. Geef aan of het om trek- of drukkrachten gaaat.
+Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_0`. Geef aan of het om trek- of drukkrachten gaat.
 
 <hr style="border:1px solid #9EA700">
 
 ## Opgave 3
 
 
-```{figure} ../figures/WC6_3.png
+```{figure} ../figures/WC9_3.png
 ---
 width: 70%
-name: WC6_3
+name: WC9_3
 align: center
 ---
 : Opgave 3
@@ -60,11 +60,11 @@ align: center
 
 _Gegevens_
 
-$k_{}$ =  100 N/m;
+$F_{1}$ =  1.2 kN; $F_{2}$ =  2.4 kN; $F_{3}$ =  2.4 kN; $F_{4}$ =  1.2 kN;
 
 _Gevraagd:_
 
-Bepaal de massa van elk van de twee cilinders als ze bij ophangen vanaf de ringen in $A$ en $B$ een doorhanging van 0.5 m veroorzaken. Merk op dat bij verwijdering van de cilinders geldt dat s = 0, zie {numref}`WC6_3`.
+Bepaal met behulp van de knooppuntmethode de staafkrachten in het vakwerk, zie {numref}`WC9_0`. Geef aan of het om trek- of drukkrachten gaat.
 
 <hr style="border:1px solid #9EA700">
 
