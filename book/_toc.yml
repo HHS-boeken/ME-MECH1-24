@@ -79,6 +79,7 @@ parts:
     chapters:
     - file: H7/H7_0_intro_uitwerkingen_boek
       sections:
+      - file: H7/Opgave_leeg.ipynb
       - file: H7/Opgave_7_49.ipynb
       - file: H7/Opgave_7_50.ipynb
     
