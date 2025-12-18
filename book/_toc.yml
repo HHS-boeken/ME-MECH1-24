@@ -72,12 +72,12 @@ parts:
 
     - file: H6/H6_0_intro_werkcollege
       sections:
-      #- file: H6/H6_opgaven_werkcollege_lesweek9.md
+      - file: H6/H6_opgaven_werkcollege_lesweek9.md
 
 
-  #- caption: Uitwerkingen Boek
-    #chapters:
-    #- file: H7/Opgave_7_49.ipynb
+  - caption: Uitwerkingen Boek
+    chapters:
+    - file: H7/Opgave_7_49.ipynb
 
     #- file: H7/Opgave_7_50.ipynb
     #- file: H7/Opgave_7_51.ipynb
