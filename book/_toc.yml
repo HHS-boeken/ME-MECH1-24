@@ -74,6 +74,30 @@ parts:
       sections:
       - file: H6/H6_opgaven_werkcollege_lesweek9.md
       #- file: H5/H5_uitwerkingen_werkcollege_lesweek6.md
+  
+  - caption: Uitwerkingen Boek
+    chapters:
+    - file: H7/Opgave_7_49.ipynb
+
+    - file: H7/Opgave_7_50.ipynb
+    - file: H7/Opgave_7_51.ipynb
+    - file: H7/Opgave_7_53.ipynb
+    - file: H7/Opgave_7_54.ipynb
+   
+    - file: H7/Opgave_7_56.ipynb
+    - file: H7/Opgave_7_57.ipynb
+ 
+    - file: H7/Opgave_7_60.ipynb
+    - file: H7/Opgave_7_61.ipynb
+
+    - file: H7/Opgave_7_71.ipynb
+    - file: H7/Opgave_7_72.ipynb
+    - file: H7/Opgave_7_73.ipynb
+    - file: H7/Opgave_7_77.ipynb
+    - file: H7/Opgave_7_78.ipynb
+    - file: H7/Opgave_7_79.ipynb
+    - file: H7/Opgave_7_80.ipynb
+  
 
   - caption: Voorbeeldtoets
     chapters:
