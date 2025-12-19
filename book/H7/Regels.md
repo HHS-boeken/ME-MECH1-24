@@ -35,7 +35,7 @@ $
 ---
 
 ### Regel 4
-De helling van de V-lijn $( \mathrm{d}V/\mathrm{d}x )$ is gelijk aan de verdeelde belasting $q_z$.
+De helling van de $V$-lijn ${d}V/\mathrm{d}x $ is gelijk aan de verdeelde belasting $q_z$.
 ---
 
 ### Regel 5
@@ -54,9 +54,44 @@ Het buigend moment $M$ is extreem waar de dwarskracht $V$ nul is (of van teken w
 ---
 
 ### Regel 8
-De raaklijnen aan de M-lijn in de uiteinden van een veld snijden elkaar op de werklijn van de belastingsresultante in dat veld (bij een verdeelde belasting is dat ter hoogte van het zwaartepunt van het belastingsdiagram).
+De raaklijnen aan de $M$-lijn in de uiteinden van een veld snijden elkaar op de werklijn van de belastingsresultante in dat veld (bij een verdeelde belasting is dat ter hoogte van het zwaartepunt van het belastingsdiagram).
 
 ---
 
 ### Regel 9
 Als men per veld de belasting vervangt door zijn resultante en men tekent de momentenlijn ten gevolge van deze resultante, dan raakt deze momentenlijn in de veldranden aan de werkelijke momentenlijn.
+
+---
+
+### Regel 10
+De verandering van de dwarskracht $V$ over een bepaalde lengte is, als er geen geconcentreerde krachten aangrijpen, gelijk aan de oppervlakte van het belastingdiagram over die lengte.
+
+---
+
+### Regel 11
+De verandering van het buigend moment over een bepaalde lengte is, als er geen geconcentreerde koppels aangrijpen, gelijk aan de oppervlakte onder de $V$-lijn over die lengte.
+
+---
+
+### Regel 12
+De totale oppervlakte onder de $V$-lijn is gelijk aan de momentensom van alle (geconcentreerde) koppels die erop werken. Voor een ligger waarop geen (geconcentreerde) koppels werken, is de totale oppervlakte onder de $V$-lijn nul.
+
+---
+
+### Regel 13
+Een sprongsgewijze verandering in de verdeelde belasting $q$ geeft een knik in de $V$-lijn en een buigpunt in de $M$-lijn.
+
+---
+
+### Regel 14
+Een (geconcentreerde) kracht $F$ loodrecht op de staafas geeft een sprong in de $V$-lijn, ter grootte van $F$, en een knik in de $M$-lijn.
+
+---
+
+### Regel 15
+Een (geconcentreerd) koppel $T$ geeft een sprong in de $M$-lijn ter grootte van $T$ (aan de $V$-lijn is weinig bijzonders te zien).
+
+---
+
+### Regel 16
+Als een ligger uitsluitend door krachten loodrecht op zijn as wordt belast, heeft de $M$-lijn dezelfde vorm als een kabel (touwtje) waarop men dezelfde krachten laat werken. (Als de M-lijn positief naar beneden wordt getekend.)
