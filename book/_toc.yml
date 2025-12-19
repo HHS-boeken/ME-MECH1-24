@@ -79,6 +79,7 @@ parts:
     chapters:
     - file: H7/H7_0_intro_uitwerkingen_boek
       sections:
+      - file: H7/Regels.md
       - file: H7/Opgave_leeg.ipynb
       - file: H7/Opgave_7_49.ipynb
       - file: H7/Opgave_7_50.ipynb
@@ -89,10 +90,9 @@ parts:
       - file: H7/Opgave_7_57.ipynb
       - file: H7/Opgave_7_60.ipynb
       - file: H7/Opgave_7_61.ipynb
-
-    #- file: H7/Opgave_7_71.ipynb
-    #- file: H7/Opgave_7_72.ipynb
-    #- file: H7/Opgave_7_73.ipynb
+      - file: H7/Opgave_7_71.ipynb
+      - file: H7/Opgave_7_72.ipynb
+      - file: H7/Opgave_7_73.ipynb
     #- file: H7/Opgave_7_77.ipynb
     #- file: H7/Opgave_7_78.ipynb
     #- file: H7/Opgave_7_79.ipynb
