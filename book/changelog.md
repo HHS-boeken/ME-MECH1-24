@@ -1,5 +1,11 @@
 # Changelog
 
+## v2025.9.0 Update na Werkcollege lesweek 15
+
+Toevoegen:
+
+- [Uitwerkingen Hoofdstuk 7 - Interne Krachten](./H7/H7_0_intro_uitwerkingen_boek.md)
+
 ## v2025.8.0 Update na Werkcollege lesweek 6
 
 Toevoegen:
