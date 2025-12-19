@@ -87,9 +87,8 @@ parts:
       - file: H7/Opgave_7_54.ipynb
       - file: H7/Opgave_7_56.ipynb
       - file: H7/Opgave_7_57.ipynb
- 
-    #- file: H7/Opgave_7_60.ipynb
-    #- file: H7/Opgave_7_61.ipynb
+      - file: H7/Opgave_7_60.ipynb
+      - file: H7/Opgave_7_61.ipynb
 
     #- file: H7/Opgave_7_71.ipynb
     #- file: H7/Opgave_7_72.ipynb
