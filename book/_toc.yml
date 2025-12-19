@@ -84,6 +84,10 @@ parts:
       - file: H7/Opgave_F7_10.ipynb
       - file: H7/Opgave_F7_11.ipynb
       - file: H7/Opgave_F7_12.ipynb
+      - file: H7/Opgave_F7_15.ipynb
+      - file: H7/Opgave_F7_16.ipynb
+      - file: H7/Opgave_F7_17.ipynb
+      - file: H7/Opgave_F7_18.ipynb
 
       - file: H7/Opgave_7_49.ipynb
       - file: H7/Opgave_7_50.ipynb
