@@ -82,10 +82,10 @@ parts:
       - file: H7/Regels.md
       - file: H7/Opgave_leeg.ipynb
 
-      - file: H7/Voorbeeld_7_6.ipynb
-      - file: H7/Voorbeeld_7_7.ipynb
-      - file: H7/Voorbeeld_7_9.ipynb
-      - file: H7/Voorbeeld_7_10.ipynb
+      - file: H7/Voorbeeld7_6.ipynb
+      - file: H7/Voorbeeld7_7.ipynb
+      - file: H7/Voorbeeld7_9.ipynb
+      - file: H7/Voorbeeld7_10.ipynb
 
       - file: H7/Opgave_F7_1.ipynb
       - file: H7/Opgave_F7_2.ipynb
