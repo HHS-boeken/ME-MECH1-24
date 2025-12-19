@@ -1,45 +1,36 @@
 ## Overzicht regels m.b.t. de M- en V-lijn
 
 ### Regel 1
-In een onbelast veld is de dwarskracht \( V \) constant en verloopt het buigend moment \( M \) lineair.  
-Is de dwarskracht nul, dan is het buigend moment constant.
+In een onbelast veld is de dwarskracht $V$ constant en verloopt het buigend moment $M$ lineair. Is de dwarskracht nul, dan is het buigend moment constant.
 
-\[
-q_z = 0 \;\Rightarrow\; V \text{ constant}
-\]
-\[
-V = 0 \;\Rightarrow\; M \text{ constant}
-\]
-\[
-V \neq 0 \;\Rightarrow\; M \text{ lineair}
-\]
+$q_z = 0 \;\Rightarrow\; V \text{ constant}$
+
+$V = 0 \;\Rightarrow\; M \text{ constant}$
+
+$V \neq 0 \;\Rightarrow\; M \text{ lineair}$
 
 ---
 
 ### Regel 2
 In een veld met een gelijkmatig verdeelde belasting $q_z$ verloopt de dwarskracht $V$ lineair en het buigend moment $M$ kwadratisch (parabolisch).
 
-$
-q_z = \text{constant} \;(\neq 0) \;\Rightarrow\; V \text{ lineair} \;\Rightarrow\; M \text{ kwadratisch}
-$
+$q_z = \text{constant} \;(\neq 0) \;\Rightarrow\; V \text{ lineair} \;\Rightarrow\; M \text{ kwadratisch}$
 
 ---
 
 ### Regel 3
 In een veld met een lineair verlopende verdeelde belasting $q_z$ verloopt de dwarskracht $V$ kwadratisch en is het buigend moment $M$ een derdegraadsfunctie.
 
-$
-q_z \text{ lineair} \;\Rightarrow\; V \text{ kwadratisch} \;\Rightarrow\; M \text{ derdegraads}
-$
+$q_z \text{ lineair} \;\Rightarrow\; V \text{ kwadratisch} \;\Rightarrow\; M \text{ derdegraads}$
 
 ---
 
 ### Regel 4
-De helling van de $V$-lijn ${d}V/\mathrm{d}x $ is gelijk aan de verdeelde belasting $q_z$.
+De helling van de $V$-lijn $\dfrac{dV}{dx}$ is gelijk aan de verdeelde belasting $q_z$.
 ---
 
 ### Regel 5
-De helling van de M-lijn  $( \mathrm{d}M/\mathrm{d}x)$ is gelijk aan de dwarskracht $V$.
+De helling van de M-lijn  $\dfrac{dM}{dx}$ is gelijk aan de dwarskracht $V$.
 
 ---
 
