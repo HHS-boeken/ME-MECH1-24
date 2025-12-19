@@ -27,6 +27,7 @@ $q_z \text{ lineair} \;\Rightarrow\; V \text{ kwadratisch} \;\Rightarrow\; M \te
 
 ### Regel 4
 De helling van de $V$-lijn $\dfrac{dV}{dx}$ is gelijk aan de verdeelde belasting $q_z$.
+
 ---
 
 ### Regel 5

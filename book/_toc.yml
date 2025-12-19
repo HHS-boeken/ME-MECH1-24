@@ -70,9 +70,9 @@ parts:
       - file: H5/H5_opgaven_werkcollege_lesweek6.md
       - file: H5/H5_uitwerkingen_werkcollege_lesweek6.md
 
-    - file: H6/H6_0_intro_werkcollege
-      sections:
-      - file: H6/H6_opgaven_werkcollege_lesweek9.md
+    #- file: H6/H6_0_intro_werkcollege
+      #sections:
+      #- file: H6/H6_opgaven_werkcollege_lesweek9.md
 
 
   - caption: Uitwerkingen Boek
