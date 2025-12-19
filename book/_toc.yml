@@ -97,7 +97,9 @@ parts:
       - file: H7/Opgave_7_78.ipynb
       - file: H7/Opgave_7_79.ipynb
       - file: H7/Opgave_7_80.ipynb
-      
+      - file: H7/Opgave_7_82.ipynb
+      - file: H7/Opgave_7_84.ipynb
+      - file: H7/Opgave_7_85.ipynb
   
 
   - caption: Voorbeeldtoets
