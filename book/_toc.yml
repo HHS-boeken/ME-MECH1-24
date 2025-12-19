@@ -81,6 +81,10 @@ parts:
       sections:
       - file: H7/Regels.md
       - file: H7/Opgave_leeg.ipynb
+      - file: H7/Opgave_F7_10.ipynb
+      - file: H7/Opgave_F7_11.ipynb
+      - file: H7/Opgave_F7_12.ipynb
+
       - file: H7/Opgave_7_49.ipynb
       - file: H7/Opgave_7_50.ipynb
       - file: H7/Opgave_7_51.ipynb
