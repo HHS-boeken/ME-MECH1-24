@@ -80,7 +80,7 @@ parts:
     - file: H7/H7_0_intro_uitwerkingen_boek
       sections:
       - file: H7/Regels.md
-      - file: H7/Opgave_leeg.ipynb
+      #- file: H7/Opgave_leeg.ipynb
 
       - file: H7/Voorbeeld7_6.ipynb
       - file: H7/Voorbeeld7_7.ipynb
