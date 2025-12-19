@@ -69,7 +69,62 @@ parts:
       sections:
       - file: H5/H5_opgaven_werkcollege_lesweek6.md
       - file: H5/H5_uitwerkingen_werkcollege_lesweek6.md
- 
+
+    #- file: H6/H6_0_intro_werkcollege
+      #sections:
+      #- file: H6/H6_opgaven_werkcollege_lesweek9.md
+
+
+  - caption: Uitwerkingen Boek
+    chapters:
+    - file: H7/H7_0_intro_uitwerkingen_boek
+      sections:
+      - file: H7/Regels.md
+      #- file: H7/Opgave_leeg.ipynb
+
+      - file: H7/Voorbeeld7_6.ipynb
+      - file: H7/Voorbeeld7_7.ipynb
+      - file: H7/Voorbeeld7_9.ipynb
+      - file: H7/Voorbeeld7_10.ipynb
+
+      - file: H7/Opgave_F7_1.ipynb
+      - file: H7/Opgave_F7_2.ipynb
+      - file: H7/Opgave_F7_3.ipynb
+      - file: H7/Opgave_F7_4.ipynb
+      - file: H7/Opgave_F7_5.ipynb
+      - file: H7/Opgave_F7_6.ipynb
+      - file: H7/Opgave_F7_10.ipynb
+      - file: H7/Opgave_F7_11.ipynb
+      - file: H7/Opgave_F7_12.ipynb
+      - file: H7/Opgave_F7_15.ipynb
+      - file: H7/Opgave_F7_16.ipynb
+      - file: H7/Opgave_F7_17.ipynb
+      - file: H7/Opgave_F7_18.ipynb
+
+      - file: H7/Opgave_7_49.ipynb
+      - file: H7/Opgave_7_50.ipynb
+      - file: H7/Opgave_7_51.ipynb
+      - file: H7/Opgave_7_53.ipynb
+      - file: H7/Opgave_7_54.ipynb
+      - file: H7/Opgave_7_56.ipynb
+      - file: H7/Opgave_7_57.ipynb
+      - file: H7/Opgave_7_60.ipynb
+      - file: H7/Opgave_7_61.ipynb
+      - file: H7/Opgave_7_71.ipynb
+      - file: H7/Opgave_7_72.ipynb
+      - file: H7/Opgave_7_73.ipynb
+      - file: H7/Opgave_7_77.ipynb
+      - file: H7/Opgave_7_78.ipynb
+      - file: H7/Opgave_7_79.ipynb
+      - file: H7/Opgave_7_80.ipynb
+      - file: H7/Opgave_7_82.ipynb
+      - file: H7/Opgave_7_84.ipynb
+      - file: H7/Opgave_7_85.ipynb
+      - file: H7/Opgave_7_88.ipynb
+      - file: H7/Opgave_7_92.ipynb
+      - file: H7/Opgave_7_93.ipynb
+  
+
   - caption: Voorbeeldtoets
     chapters:
     - file: voorbeeldtoets

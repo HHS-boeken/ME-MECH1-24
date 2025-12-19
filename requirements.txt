@@ -5,6 +5,9 @@ sphinx-image-inverter
 download_link_replacer
 sphinx-exercise
 teachbooks-sphinx-tippy
+plotly
+pexpect==4.9.0
+ptyprocess==0.7.0
 
 # now list the packages (and the respective url) you wish to download from the GitLab package registry
 --extra-index-url https://gitlab.tudelft.nl/api/v4/projects/11239/packages/pypi/simple
