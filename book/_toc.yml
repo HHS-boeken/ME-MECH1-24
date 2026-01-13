@@ -128,7 +128,7 @@ parts:
     chapters:
     - file: voorbeeldtoets
     - file: voorbeeldtoets_uitwerkingen
-    #- file: VoorbeeldToets_MECH_T2
+    - file: VoorbeeldToets_MECH_T2
 
   - caption: Diverse
     chapters:
