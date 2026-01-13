@@ -1,10 +1,19 @@
 # Voorbeeldtoets MECH1-T2
 
 ## Opgave 1 - Vakwerk - Knooppuntsmethode
-Bepaal met de knooppuntmethode de kracht in elke staaf van het vakwerk dat is af-
-gebeeld in figuur 1. Geef aan of er een trekkracht of drukkracht op de staven wordt
+Bepaal met de knooppuntmethode de kracht in elke staaf van het vakwerk dat is afgebeeld in figuur 1. Geef aan of er een trekkracht of drukkracht op de staven wordt
 uitgeoefend.
 
+```{figure} figures/MECH1-T2_Opg1.png
+---
+width: 70%
+name: 
+align: center
+---
+: Figuur 1
+```
+
+<hr style="border:1px solid #9EA700">
 
 ## Opgave 2 - Vakwerk - Snedemethode
 Bepaal met de snedemethode de kracht in de staven BD , CE en CD van het vakwerk
@@ -20,12 +29,23 @@ align: center
 : Figuur 2
 ```
 
+<hr style="border:1px solid #9EA700">
 
 
 ## Opgave 3 - Raamwerk
+Bereken de horizontale en verticale componenten van alle krachten die op elke staaf
+werken (verwaarloos het eigen gewicht), zie figuur 3.
 
+```{figure} figures/MECH1-T2_Opg3.png
+---
+width: 70%
+name: 
+align: center
+---
+: Figuur 3
+```
 
-
+<hr style="border:1px solid #9EA700">
 
 ## Opgave 4 - Interne Krachten
 Teken de dwarskracht- en buigmomentgrafieken van de ligger in figuur 4. Gebruik
@@ -40,5 +60,8 @@ align: center
 ---
 : Figuur 4
 ```
+
+<hr style="border:1px solid #9EA700">
+
 
 ## Opgave 5 - Wrijving
