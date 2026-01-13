@@ -65,3 +65,12 @@ align: center
 
 
 ## Opgave 5 - Wrijving
+De drie staven hebben de volgende gewichten: $W_A = 20$ N, $W_B = 40$ N en $W_C = 60$ N. De statische wrijvingscoëfficiënten van de contactvlakken zijn zoals aangegeven. Bepaal de kleinste horizontale kracht $P$ die nodig is om blok $A$ te verplaatsen.
+
+```{figure} figures/MECH1-T2_Opg5.png
+---
+width: 70%
+align: center
+---
+: Figuur 5
+```
