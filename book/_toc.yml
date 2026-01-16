@@ -123,12 +123,12 @@ parts:
       - file: H7/Opgave_7_88.ipynb
       - file: H7/Opgave_7_92.ipynb
       - file: H7/Opgave_7_93.ipynb
-  
 
   - caption: Voorbeeldtoets
     chapters:
     - file: voorbeeldtoets
     - file: voorbeeldtoets_uitwerkingen
+    - file: VoorbeeldToets_MECH_T2
 
   - caption: Diverse
     chapters:
