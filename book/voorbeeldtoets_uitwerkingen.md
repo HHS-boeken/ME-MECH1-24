@@ -79,8 +79,8 @@ B_y &= -25.1 \text{ kN} = 25.1  \text{ kNm} \downarrow \quad {\color{blue}   \te
 Verticale krachtenevenwicht geeft:
 \begin{align}
 \uparrow_+  \Sigma{F_y} &= 0 \\
-&= A_y - R_{q_1} - R_{q_2} - B_y \\
-&= A_y - (\dfrac{1}{2} \cdot 3 \cdot 8) - (\dfrac{1}{2} \cdot 3 \cdot 5) - 25.1 \quad {\color{blue}   \text{(1p)}} \\
+&= A_y - R_{q_1} - R_{q_2} + B_y \\
+&= A_y - (\dfrac{1}{2} \cdot 3 \cdot 8) - (\dfrac{1}{2} \cdot 3 \cdot 5) + (- 25.1) \quad {\color{blue}   \text{(1p)}} \\
 &= A_y - 12 - 7.5  - 25.1 \\
 &= A_y  - 44.6 \\
 A_y &= 44.6 \text{ kN} \uparrow \quad {\color{blue}   \text{(1p)}}
