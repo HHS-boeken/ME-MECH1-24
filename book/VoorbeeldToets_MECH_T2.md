@@ -4,6 +4,19 @@
 Bepaal met de knooppuntmethode de kracht in elke staaf van het vakwerk dat is afgebeeld in figuur 1. Geef aan of er een trekkracht of drukkracht op de staven wordt
 uitgeoefend.
 
+```{figure} figures/MECH1-T2_Opg11.png
+---
+width: 70%
+name: 
+align: center
+---
+: Figuur 1
+```
+
+## Opgave 1 - Vakwerk - Knooppuntsmethode
+Bepaal met de knooppuntmethode de kracht in elke staaf van het vakwerk dat is afgebeeld in figuur 2. Geef aan of er een trekkracht of drukkracht op de staven wordt
+uitgeoefend.
+
 ```{figure} figures/MECH1-T2_Opg1.png
 ---
 width: 70%
